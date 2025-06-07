@@ -1,4 +1,5 @@
 ## Pathophysiology
+id:: 6843fb92-e840-4942-b933-10bbdee8c89e
 	- According to [(Gallaher, 2022)]([[References/gallaherAcuteCholecystitisReview2022]]),
 	- Cystic duct obstruction -> Intraluminal pressure -> Inflammatory response -> Secondary bacterial infection
 		- [[Acute calculous cholecystitis]] occurs after a **cystic duct obstruction** caused by **gallstones**, sludge, or lithogenic bile.
@@ -13,3 +14,4 @@
 		  logseq.order-list-type:: number
 		  intraluminal pus and gross infection.
 	- After the acute phase, intraluminal pus is replaced with granulation tissue and eventually progresses to [[Chronic Cholecystitis]].
+-
