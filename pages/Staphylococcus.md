@@ -7,7 +7,9 @@ review-date::
   morphology:: [[Coccus-in-cluster]] 
   lab:: [[Catalase-positive]]
   oxygen-environment:: [[Clinically Aerobic Bacteria]]
-- *[[Staphylococcus aureus]]*
-- *[[Staphylococcus epidermidis]]*
-- *[[Staphylococcus saprophyticus]]*
-- *[[Staphylococcus hemolyticus]]*
+-
+- ## Species
+	- *[[Staphylococcus aureus]]*
+	- *[[Staphylococcus epidermidis]]*
+	- *[[Staphylococcus saprophyticus]]*
+	- *[[Staphylococcus hemolyticus]]*
