@@ -1,6 +1,5 @@
 alias:: {author lastname} ({year}) {title}
-type:: {type};
-status::
+type:: {type}
 icon:: 📚
 
 - *{title}*. {publisher}.
