@@ -54,6 +54,3 @@ review-date::
 	- [[Symptomatic Gallstone]]
 		- Elective [[Cholecystectomy]]
 		- Avoid fatty and large meal while awaiting [[Surgery]]
-- ## References
-	- [Sun, 2022]([[References/sunFactorsInfluencingGallstone2022]])
-	
