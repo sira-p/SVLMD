@@ -3,13 +3,14 @@ author:: [[Author/Sira Pornsiriprasert]]
 reviewer::
 review-date::
 
+-
 - Location: #Epigastrium, #RUQ
 - Onset:
-- Duration:
+- Duration: Acute, episodic
 - Characteristics: Dull, steady pain
-- Radiation:
-- Associated symptoms:
-- Aggravating factors: meals (due to )
-- Relieving factors:
+- Radiation: Right shoulder or scapula
+- Aggravating factors: Fatty meals (due to #CCK )
 - Time:
-- Severity:
+- Severity: Can be severe
+- ## [[References]]
+	- [[References/Hapca2021Biliary]]

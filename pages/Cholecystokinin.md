@@ -1,1 +1,1 @@
-- alai
+alias:: CCK
