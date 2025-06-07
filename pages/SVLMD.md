@@ -2,6 +2,8 @@ icon:: 🩺
 
 - ## Sira's Very Large Medical Database
 -
+- # [[Contents]]
+- [[Contents]]
 - # [[Medicine]]
 - # [[Surgery]]
 - # [[Microbiology]]
