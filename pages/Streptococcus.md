@@ -35,3 +35,4 @@ review-date::
 			- {{query (property :tags [[Lancefield Group C]])}}
 		- ### [[Lancefield Group D]]
 			- {{query (property :tags [[Lancefield Group D]])}}
+			  query-properties:: [:page]
