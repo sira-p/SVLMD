@@ -1,4 +1,4 @@
-alias:: [[S aureus]]
+alias:: [[S. aureus]]
 author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::

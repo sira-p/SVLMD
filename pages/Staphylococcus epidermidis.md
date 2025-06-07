@@ -1,4 +1,4 @@
-alias:: [[S epidermidis]]
+alias:: [[S. epidermidis]]
 author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::

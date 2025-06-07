@@ -1,4 +1,4 @@
-alias:: [[S saprophyticus]]
+alias:: [[S. saprophyticus]]
 author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::

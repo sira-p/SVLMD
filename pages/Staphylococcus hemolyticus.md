@@ -1,4 +1,4 @@
-alias:: [[S hemolyticus]]
+alias:: [[S. hemolyticus]]
 author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::
