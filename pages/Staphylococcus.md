@@ -3,7 +3,7 @@ author:: [[Sira Pornsiriprasert]]
 reviewer::
 review-date::
 gram-stain:: [[Gram-positive]]
-morphology:: [[Coccus]]
+morphology:: [[Coccus-in-cluster]] 
 lab:: [[Catalase-positive]]
 oxygen-environment:: [[Clinically Aerobic Bacteria]]
 
