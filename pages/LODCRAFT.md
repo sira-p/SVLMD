@@ -10,3 +10,14 @@ alias:: LODCRAFTS
 - **F**actors: relieving/aggravating factors
 - **T**ime: frequency, progression, cyclic, non-cyclic
 - **S**everity
+-
+- Location:
+- Onset:
+- Duration:
+- Characteristics:
+- Radiation:
+- Associated symptoms:
+- Aggravating factors:
+- Relieving factors:
+- Time:
+- Severity:
