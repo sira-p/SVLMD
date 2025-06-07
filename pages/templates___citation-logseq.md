@@ -5,5 +5,11 @@ icon:: 📚
 
 - *{title}*. {publisher}.
 	- {author}, {year}.
+	- {url}
 - Abstract:
 	- {abstract}
+- {dateadded}
+- {datemodified}
+- {isbn}
+- {issn}
+- {issue}
