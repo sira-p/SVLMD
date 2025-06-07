@@ -30,4 +30,8 @@ review-date::
 			  query-properties:: [:page :block]
 			  collapsed:: true
 		- ### [[Lancefield Group B]]
-		-
+			- {{query (property :tags [[Lancefield Group B]])}}
+		- ### [[Lancefield Group C]]
+			- {{query (property :tags [[Lancefield Group C]])}}
+		- ### [[Lancefield Group D]]
+			- {{query (property :tags [[Lancefield Group D]])}}
