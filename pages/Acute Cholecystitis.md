@@ -9,7 +9,7 @@ review-date::
 	- ## [[Acute Acalculous Cholecystitis]]
 		- {{embed ((684464f7-0f97-469f-a4a4-8db1d3504cb2))}}
 - ## Diagnosis
-	- [[Acute Cholecystitis]] is diagnosed using the **Tokyo Guideline 2018** [(Gallaher, 2022)]([[References/gallaherAcuteCholecystitisReview2022]]).
+	- [[Acute Cholecystitis]] is diagnosed using the **Tokyo Guidelines 2018** [(Gallaher, 2022)]([[References/gallaherAcuteCholecystitisReview2022]]).
 	- ### Criteria
 		- **Suspected**: 1 local sign + 1 systemic sign
 		- **Definite**: 1 local sign + 1 systemic sign + 1 image finding
@@ -29,7 +29,7 @@ review-date::
 			- **Linear shadows** in the fatty tissue around the gallbladder
 	-
 - ## Grading
-	- Grading of acute cholecystitis follows the **Tokyo Guideline 2018** [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]).
+	- Grading of acute cholecystitis follows the **Tokyo Guidelines 2018** [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]).
 	- ### Grade III: Severe
 		- Any one of the following:
 			- **Cardiovascular dysfunction**: [[Hypotension]] requiring treatment with [[Dopamine]] ≥5 μg/kg per min, or any dose of [[Norepinephrine]]
@@ -57,3 +57,8 @@ review-date::
 	- ### Grade I: Mild
 		- Acute cholecystitis that does not meet the Grade III or Grade II criteria or acute cholecystitis in a healthy patient with no organ dysfunction and mild inflammatory changes in the gallbladder, making cholecystectomy a safe and low-risk operative procedure
 		-
+- ## Management
+	- ### Grade III: [[ATB]] + [[Cholecystostomy]]
+	- ### Grade II: [[ATB]] + Urgent [[Cholecystectomy]]
+	- G
+	-
