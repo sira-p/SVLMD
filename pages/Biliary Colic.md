@@ -1,5 +1,5 @@
 alias::
-author:: [[Author/Sira Pornsiriprasert]] 
+author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::
 

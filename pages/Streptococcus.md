@@ -2,4 +2,4 @@
 - *[[Streptococcus mutans]]*
 - *[[Streptococcus mitis]]*
 - *[[Streptococcus sanguinis]]*
--
+- *[[Streptococcus angionosus]]*

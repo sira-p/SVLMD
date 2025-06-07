@@ -5,7 +5,7 @@
 - # [[Microbiology]]
 -
 - ## Authors
-	- [[Author/Sira Pornsiriprasert]]
+	- [[Sira Pornsiriprasert]]
 	-
 - ## Internal Pages
 	- [[Templates]]
