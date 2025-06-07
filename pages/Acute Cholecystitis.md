@@ -21,6 +21,12 @@ review-date::
 		- Elevated [[CRP]]
 		- Elevated [[WBC]] (WBC > 10,000) or depressed WBC (WBC < 4,000)
 	- ### Imaging Findings Characteristic of Acute Cholecystitis
+		- According to [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]), the accepted imaging findings of acute cholecystitis are:
+			- **Thickening** of the gallbladder wall (≥4 mm)
+			- **Enlargement** of the gallbladder (long axis ≥8 cm, short axis ≥4 cm)
+			- **Gallstones** or retained debris
+			- **Fluid accumulation** around the gallbladder
+			- **Linear shadows** in the fatty tissue around the gallbladder
 	-
 - ## Grading
 	- Grading of acute cholecystitis follows the **Tokyo Guideline 2018** [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]).
@@ -51,6 +57,3 @@ review-date::
 	- ### Grade I: Mild
 		- Acute cholecystitis that does not meet the Grade III or Grade II criteria or acute cholecystitis in a healthy patient with no organ dysfunction and mild inflammatory changes in the gallbladder, making cholecystectomy a safe and low-risk operative procedure
 		-
-- ## Investigation
-	- ### Imaging
-		- #### [[Ultrasound]]
