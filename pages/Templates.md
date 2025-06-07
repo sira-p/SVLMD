@@ -1,0 +1,3 @@
+- List of templates for managing internal database
+- [[templates/zotero]]
+-
