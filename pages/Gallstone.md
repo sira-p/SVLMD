@@ -16,6 +16,13 @@ alias:: GS
 		- **Impaired gallbladder motility** and excessive cholesterol secretion by the liver.
 		- **Other factors**: Non-alcoholic fatty liver disease and rapid weight loss can also increase risk.
 - ## Management
-	-
+	- ### Asymptomatic gallstone
+		- Expectant management & reassure
+		- #Cholecystectomy
+			- Absolute indication
+				- Risk of #[[Gallbladder Cancer]]
+					- #GB polyp > 1 cm
+					-
+			- Relative indication
 - ## References
 	- [[References/sunFactorsInfluencingGallstone2022]]
