@@ -60,5 +60,4 @@ review-date::
 - ## Management
 	- ### Grade III: [[ATB]] + [[Cholecystostomy]]
 	- ### Grade II: [[ATB]] + Urgent [[Cholecystectomy]]
-	- G
-	-
+	- ### Grade I: [[ATB]] + Urgent [[Cholecystectomy]]
