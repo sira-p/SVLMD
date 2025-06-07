@@ -1,4 +1,4 @@
-alias:: GS
+alias:: GS, Cholelithiasis
 
 - Gallstones are highly prevalent and the majority are asymptomatic.
 - ## Types of Gallstone
@@ -22,10 +22,10 @@ alias:: GS
 		- **Other factors**: Non-alcoholic fatty liver disease and rapid weight loss can also increase risk.
 - ## Investigation
 	- #Ultrasound
-		- #[[Posterior Acoustic Shadowing]] in
+		- #[[Posterior Acoustic Shadowing]]
 - ## Management
 	- ### [[Asymptomatic gallstone]]
-		- Expectant management & reassure
+		- Expectant management & reassuring
 		- #Cholecystectomy
 			- Absolute indication
 				- Risk of #[[Gallbladder Cancer]]
