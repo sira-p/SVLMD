@@ -1,4 +1,3 @@
-alias:: Sx
-
+-
 - [[Hepatopancreatobiliary Surgery]]
 -
