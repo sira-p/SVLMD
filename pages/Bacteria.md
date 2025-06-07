@@ -1,3 +1,5 @@
+icon:: 🦠
+
 alias::
 author:: [[Sira Pornsiriprasert]] 
 Reviewer::

@@ -3,7 +3,7 @@ author:: [[Sira Pornsiriprasert]]
 reviewer::
 review-date::
 
-- Gallstones are highly prevalent and the majority are asymptomatic.
+- **Gallstones** are highly prevalent and the majority are asymptomatic.
 - ## Types of Gallstone
 	- By pathogenesis and history
 		- [[Asymptomatic Gallstone]]
