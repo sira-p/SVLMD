@@ -7,6 +7,7 @@ review-date::
   morphology:: [[Cocci-in-chain]] 
   lab:: [[Catalase-negative]]
   oxygen-environment:: [[Clinically Aerobic Bacteria]]
+- **Streptococcus** is a genus of [[Gram-positive cocci]].
 - ## Classification by [[Agar Hemolysis Test]]
 	- ## [[Alpha Hemolysis]]
 		- *[[Streptococcus pneumoniae]]*
