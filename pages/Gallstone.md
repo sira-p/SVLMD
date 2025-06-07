@@ -2,12 +2,17 @@ alias:: GS
 
 - Gallstones are highly prevalent and the majority are asymptomatic.
 - ## Types of Gallstone
-	- [[Asymptomatic Gallstone]]
-	- [[Symptomatic Gallstone]]
-	- [[Acute Cholecystitis]]
-		- [[Acalculous Acute Cholecystitis]]
-		- [[Calculous Acute Cholecystitis]]
-	- [[Mirizzi Syndrome]]
+	- By pathogenesis and history
+		- [[Asymptomatic Gallstone]]
+		- [[Symptomatic Gallstone]]
+		- [[Acute Cholecystitis]]
+			- [[Acalculous Acute Cholecystitis]]
+			- [[Calculous Acute Cholecystitis]]
+		- [[Mirizzi Syndrome]]
+	- By composition
+		- [[Cholesterol Gallstone]]
+		- [[Pigmented Gallstone]]
+		- [[Mixed Gallstone]]
 - ## Risk Factors
 	- Gallstone formation is influenced by a combination of genetic, metabolic, and lifestyle factors #References/sunFactorsInfluencingGallstone2022.
 		- **Genetic predisposition** and family history
@@ -22,7 +27,12 @@ alias:: GS
 			- Absolute indication
 				- Risk of #[[Gallbladder Cancer]]
 					- #GB polyp > 1 cm
-					-
+					- #GS > 3 cm
+					- #[[Porcelain Gallbladder]]
 			- Relative indication
+				- Difficulty hospital access
+				- Hemolytic diseases
+					- Increases risk of #[[Pigmented Gallstone]]
+					- Such as #[[Hereditary spherocytosis]], #[[Sickle Cell Anemia]], #[[Thalassemia]]
 - ## References
 	- [[References/sunFactorsInfluencingGallstone2022]]
