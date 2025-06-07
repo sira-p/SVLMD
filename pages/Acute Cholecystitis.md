@@ -22,3 +22,8 @@ review-date::
 		- Elevated [[WBC]] (WBC > 10,000) or depressed WBC (WBC < 4,000)
 	- ### Imaging Findings Characteristic of Acute Cholecystitis
 		-
+- ## Investigation
+	- ### Imaging
+		- #### [[Ultrasound]]
+			-
+		-
