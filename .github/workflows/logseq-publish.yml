@@ -1,15 +1,15 @@
 on:
   push:
-    branches: [dev]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  test:
+  publish:
     runs-on: ubuntu-latest
-    name: Run the action on a test graph and publish
+    name: Publish
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,9 +27,9 @@ jobs:
       - name: Build graph's SPA
         uses: logseq/publish-spa@v0.3.0
         with:
-          graph-directory: SVLMD
+          graph-directory: .
           theme-mode: dark
-          accent-color: cyan
+          accent-color: green
 
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
@@ -37,7 +37,7 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages
+          branch: build
           folder: www
           clean: true
           single-commit: true
