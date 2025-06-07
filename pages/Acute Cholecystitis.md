@@ -21,6 +21,7 @@ review-date::
 		- Elevated [[CRP]]
 		- Elevated [[WBC]] (WBC > 10,000) or depressed WBC (WBC < 4,000)
 	- ### Imaging Findings Characteristic of Acute Cholecystitis
+	-
 - ## Grading
 	- Grading of acute cholecystitis follows the **Tokyo Guideline 2018** [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]).
 	- ### Grade III: Severe
@@ -47,8 +48,9 @@ review-date::
 			  logseq.order-list-type:: number
 			- Marked local inflammation (gangrenous cholecystitis, pericholecystic abscess, hepatic abscess, biliary peritonitis, emphysematous cholecystitis)
 			  logseq.order-list-type:: number
-	- Grade I (mild) acute cholecystitis
-	- “Grade I” acute cholecystitis does not meet the criteria of “Grade III” or “Grade II” acute cholecystitis. It can also be defined as acute cholecystitis in a healthy patient with no organ dysfunction and mild inflammatory changes in the gallbladder, making cholecystectomy a safe and low-risk operative procedure
+	- ### Grade I: Mild
+		- Acute cholecystitis that does not meet the Grade III or Grade II criteria or acute cholecystitis in a healthy patient with no organ dysfunction and mild inflammatory changes in the gallbladder, making cholecystectomy a safe and low-risk operative procedure
+		-
 - ## Investigation
 	- ### Imaging
 		- #### [[Ultrasound]]
