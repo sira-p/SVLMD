@@ -14,6 +14,6 @@ review-date::
 	- *[[Staphylococcus saprophyticus]]*
 	- *[[Staphylococcus hemolyticus]]*
 - ## Species
-	- /
+	- {{query (property :genus [[Staphylococcus]])}}
 - ## Etymology
 	- σταφυλή (*staphulḗ*), meaning "bunch of grapes", and κόκκος (*kókkos*), meaning "kernel" in Ancient Greek.
