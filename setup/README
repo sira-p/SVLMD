@@ -1,0 +1,20 @@
+# Setup
+This document notes how SVLMD is setup. 
+
+## Citation
+SVLMD uses [Zotero](https://www.zotero.org/), [Better Bibtex](https://retorque.re/zotero-better-bibtex/), and [Logseq Citation Manager](https://github.com/sawhney17/logseq-citation-manager/) to handle citations.
+
+1. Add postscript to Better Bibtex by going to Zotero > Edit > Settings > Better Bibtex
+```
+// Simple year extraction
+if (Translator.BetterBibLaTeX) {
+    if (zotero.date) {
+        tex.add({name: 'year', value: zotero.date.split(/[//\s]/)[0]})
+    }
+}
+```
+This script extracts the year from date field, which will be needed due to how we setup SVLMD to work with Logseq Citation Manager.
+
+2. Export `references.bib` to [../assets/storages/logseq-citation-manager/references.bib] as Better BibLaTex via Zotero, and set to keep it updated.
+
+3. Make sure to import the Logseq Citation Manager settings.
