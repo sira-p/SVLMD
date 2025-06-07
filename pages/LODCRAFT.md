@@ -5,7 +5,7 @@ alias:: LODCRAFTS
 - **O**nset: sudden, delayed
 - **D**uration: acute, chronic
 - **C**haracteristics: #[[Visceral Pain]], #[[Somatic Pain]], #[[Neuropathic Pain]]
-- **R**adiation: [[Radiation in Abdominal Pain]]
+- **R**adiation: {{embed [[Radiation in Abdominal Pain]] }}
 - **A**ssociated symptoms
 - **F**actors: relieving/aggravating factors
 - **T**ime: frequency, progression, cyclic, non-cyclic
