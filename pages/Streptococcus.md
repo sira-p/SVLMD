@@ -7,9 +7,17 @@ review-date::
   morphology:: [[Cocci-in-chain]] 
   lab:: [[Catalase-negative]]
   oxygen-environment:: [[Clinically Aerobic Bacteria]]
-- *[[Streptococcus pneumoniae]]*
-- [[Viridans Streptococcus]]
-	- *[[Streptococcus mutans]]*
-	- *[[Streptococcus mitis]]*
-	- *[[Streptococcus sanguinis]]*
-	- *[[Streptococcus angionosus]]*
+- ## [[Alpha Hemolysis]]
+	- *[[Streptococcus pneumoniae]]*
+	- [[Viridans Streptococcus]]
+		- *[[Streptococcus mutans]]*
+		- *[[Streptococcus mitis]]*
+		- *[[Streptococcus sanguinis]]*
+		- *[[Streptococcus angionosus]]*
+- ## [[Beta Hemolysis]]
+	- *[[Streptococcus pyogenes]]*
+	- *[[Streptococcus agalactiae]]*
+- ## [[Gamma Hemolysis]]
+	- *[[Streptococcus bovis]]*
+	- *[[Streptococcus gallolyticus]]*
+	- See also: [[Enterococcus]]
