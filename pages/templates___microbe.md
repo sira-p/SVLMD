@@ -5,7 +5,8 @@ template-including-parent:: false
 	  author::
 	  reviewer::
 	  review-date::
-	  gram-stain::
+	- gram-stain::
 	  morphology::
 	  lab::
 	  oxygen-environment::
+	  tags::

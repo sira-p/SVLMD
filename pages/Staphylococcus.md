@@ -2,11 +2,11 @@ alias:: Staph
 author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::
-gram-stain:: [[Gram-positive]]
-morphology:: [[Coccus-in-cluster]] 
-lab:: [[Catalase-positive]]
-oxygen-environment:: [[Clinically Aerobic Bacteria]]
 
+- gram-stain:: [[Gram-positive]]
+  morphology:: [[Coccus-in-cluster]] 
+  lab:: [[Catalase-positive]]
+  oxygen-environment:: [[Clinically Aerobic Bacteria]]
 - *[[Staphylococcus aureus]]*
 - *[[Staphylococcus epidermidis]]*
 - *[[Staphylococcus saprophyticus]]*
