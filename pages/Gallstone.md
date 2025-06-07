@@ -30,7 +30,7 @@ review-date::
 	- ### [[Symptomatic Gallstone]]
 		- #[[Biliary Colic]]
 			- {{embed ((6843f8fb-ffa0-44cb-bda4-aaf864cf0518))}}
-			- If the symptoms are atypical for [[Biliary Colic]], rule out other causes, such as [[Peptic Ulcer Disease]]
+			- If the symptoms are atypical for [[Biliary Colic]], rule out other causes, such as [[Peptic Ulcer Disease]], [[Gastroesophageal Reflux Disease]]
 		- 10-20% develop symptoms or complications per year.
 - ## Investigation
 	- #Ultrasound
