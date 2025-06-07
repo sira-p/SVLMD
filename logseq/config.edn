@@ -422,4 +422,5 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :default-home {:page "SVLMD"}
- :zotero/settings-v2 {"default" {:prefer-citekey? true, :type-id "14626940", :zotero-linked-attachment-base-directory "", :zotero-data-directory "/home/psira/Zotero/", :extra-tags ""}}}
+ :zotero/settings-v2 {"default" {:prefer-citekey? true, :type-id "14626940", :zotero-linked-attachment-base-directory "", :zotero-data-directory "/home/psira/Zotero/", :extra-tags ""}
+ "empty" {:type-id ""}}}
