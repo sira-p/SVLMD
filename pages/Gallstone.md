@@ -9,8 +9,8 @@ review-date::
 		- [[Asymptomatic Gallstone]]
 		- [[Symptomatic Gallstone]]
 		- [[Acute Cholecystitis]]
-			- [[Acalculous Acute Cholecystitis]]
-			- [[Calculous Acute Cholecystitis]]
+			- [[Acute Acalculous Cholecystitis]]
+			- [[Acute Calculous Cholecystitis]]
 		- [[Mirizzi Syndrome]]
 	- By composition
 		- [[Cholesterol Gallstone]]
