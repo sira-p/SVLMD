@@ -1,7 +1,7 @@
 ## Pathophysiology
 id:: 6843fb92-e840-4942-b933-10bbdee8c89e
 	- According to [(Gallaher, 2022)]([[References/gallaherAcuteCholecystitisReview2022]]),
-	- Cystic duct obstruction -> Intraluminal pressure -> Inflammatory response -> Secondary bacterial infection
+	- Cystic duct obstruction -> Intraluminal pressure -> Inflammatory response -> Secondary bacterial infection -> [[GB]] inflammation -> [[SIRS]]
 		- [[Acute calculous cholecystitis]] occurs after a **cystic duct obstruction** caused by **gallstones**, sludge, or lithogenic bile.
 		- The **degree and duration** of the cystic duct obstruction determine the **progression rate to acute cholecystitis** and the **severity** of gallbladder inflammation.
 		- Secondary bacterial infections occur in 20% of [[Acute Cholecystitis]] patients. Causal agents are usually enteric organisms, commonly *[[Escherichia coli]]*, *[[Klebsiella]],* and *[[Enterococcus faecalis]]*.
