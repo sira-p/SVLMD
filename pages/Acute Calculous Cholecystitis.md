@@ -1,7 +1,7 @@
-[[alias]]::
+alias::
 author:: [[Sira Pornsiriprasert]] 
-[[Reviewer]]::
-[[review-date]]::
+Reviewer::
+review-date::
 
 - ## Pathophysiology
   id:: 6843fb92-e840-4942-b933-10bbdee8c89e

@@ -1,7 +1,7 @@
 alias:: [[AC]]
 author:: [[Sira Pornsiriprasert]] 
-[[Reviewer]]::
-[[review-date]]::
+Reviewer::
+review-date::
 
 - ## Pathophysiology
 	- ### [[Acute Calculous Cholecystitis]]
@@ -15,4 +15,10 @@ author:: [[Sira Pornsiriprasert]]
 		- **Definite**: 1 local sign + 1 systemic sign + 1 image finding
 	- ### Local Signs of Inflammation
 		- [[Murphy Sign]] positive
+		- [[RUQ]] mass, pain, or tenderness
+	- ### Systemic Signs of Inflammation
+		- [[Fever]]
+		- Elevated [[CRP]]
+		- Elevated [[WBC]] (WBC > 10,000) or depressed WBC (WBC < 4,000)
+	- ### Imaging Findings Characteristic of Acute Cholecystitis
 		-
