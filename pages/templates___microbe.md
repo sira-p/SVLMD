@@ -1,9 +1,9 @@
 #### Bacteria
-alias:: 
-Author:: 
-Reviewer:: 
-review-date:: 
-gram-stain:: 
-morphology:: 
-lab:: 
-oxygen-environment::
+	- alias::
+	  author::
+	  reviewer::
+	  review-date::
+	  gram-stain::
+	  morphology::
+	  lab::
+	  oxygen-environment::
