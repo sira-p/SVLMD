@@ -1,4 +1,6 @@
-## Sira's Very Large Medical Database
+icon:: 🩺
+
+- ## Sira's Very Large Medical Database
 -
 - # [[Medicine]]
 - # [[Surgery]]

@@ -1,2 +1,4 @@
+icon:: 🔪
+
 - [[Hepatopancreatobiliary Surgery]]
 -
