@@ -3,8 +3,11 @@ on:
     branches: [dev]
   workflow_dispatch:
 
+  workflow_dispatch:
+
 permissions:
   contents: write
+
 
 jobs:
   test:
@@ -24,7 +27,18 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
 
+      - name: Cache Yarn cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.yarn/cache
+            .yarn/cache
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
       - name: Build graph's SPA
+        uses: logseq/publish-spa@v0.3.0
         uses: logseq/publish-spa@v0.3.0
         with:
           graph-directory: .
@@ -34,10 +48,13 @@ jobs:
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
         
+        
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: dev-build
           folder: www
+          clean: true
+          single-commit: true
           clean: true
           single-commit: true
