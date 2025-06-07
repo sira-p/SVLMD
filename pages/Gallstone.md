@@ -20,8 +20,11 @@ alias:: GS
 		- **Age, gender, and body mass index**: Older age and female sex are significant risk factors.
 		- **Impaired gallbladder motility** and excessive cholesterol secretion by the liver.
 		- **Other factors**: Non-alcoholic fatty liver disease and rapid weight loss can also increase risk.
+- ## Investigation
+	- #Ultrasound
+		- #[[Posterior Acoustic Shadowing]] in
 - ## Management
-	- ### Asymptomatic gallstone
+	- ### [[Asymptomatic gallstone]]
 		- Expectant management & reassure
 		- #Cholecystectomy
 			- Absolute indication
