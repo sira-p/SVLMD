@@ -31,4 +31,4 @@ icon:: 📚
   version:: {version}
   volume:: {volume}
 - Abstract
-	- {abstr}
+	- {abstract}

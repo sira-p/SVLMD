@@ -55,4 +55,5 @@ review-date::
 		- Elective [[Cholecystectomy]]
 		- Avoid fatty and large meal while awaiting [[Surgery]]
 - ## References
-	- [Sun, ]([[References/sunFactorsInfluencingGallstone2022]])
+	-
+-
