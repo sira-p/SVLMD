@@ -1,0 +1,5 @@
+- Right shoulder: hepatobiliary
+- Left shoulder: splenic
+- Midback: pancreatic
+- Flank: upper urinary tract
+- Groin: genital or lower urinary tract
