@@ -12,3 +12,5 @@ icon:: 📚
 - {isbn}
 - {issn}
 - {issue}
+-
+-
