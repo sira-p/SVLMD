@@ -19,10 +19,16 @@ alias:: GS, Cholelithiasis
 		- **[[Obesity]], [[Diabetes]], and [[metabolic syndromes]]**: These conditions disturb cholesterol homeostasis, leading to cholesterol supersaturation in bile.
 		- **Age, gender, and body mass index**: Older age and female sex are significant risk factors.
 		- **Impaired gallbladder motility** and excessive cholesterol secretion by the liver.
-		- **Other factors**: Non-alcoholic fatty liver disease and rapid weight loss can also increase risk.
+		- **Other factors**: [[Non-alcoholic Fatty Liver Disease]] and rapid weight loss can also increase risk.
+- ## History
+	- ### [[Symptomatic Gallstone]]
+		- #[[Biliary Colic]]
+		-
 - ## Investigation
 	- #Ultrasound
 		- #[[Posterior Acoustic Shadowing]]
+			- Posterior acoustic shadowing on ultrasound is a classic feature of gallstones. **This shadowing is most commonly produced by gallstones that are larger than 3–4 mm in diameter, regardless of their composition.** The shadowing occurs because the stone 
+			  strongly reflects and absorbs the ultrasound waves, preventing them from passing through and creating a dark area behind the stone on the image. [[References/goodUltrasonicPropertiesGallstones1979]]
 - ## Management
 	- ### [[Asymptomatic gallstone]]
 		- Expectant management & reassuring
@@ -39,3 +45,4 @@ alias:: GS, Cholelithiasis
 					- Such as #[[Hereditary spherocytosis]], #[[Sickle Cell Anemia]], #[[Thalassemia]]
 - ## References
 	- [[References/sunFactorsInfluencingGallstone2022]]
+	- [[References/goodUltrasonicPropertiesGallstones1979]]
