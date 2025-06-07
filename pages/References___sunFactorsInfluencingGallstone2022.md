@@ -16,7 +16,7 @@ libraryLink:: zotero://select/library/items?itemKey=FFKI7PX8
 pages:: 550
 publicationTitle:: Biomolecules
 shortTitle:: Factors Influencing Gallstone Formation
-tags:: [[bile acids]], [[cardiovascular disease]], [[diabetes]], [[gallstone disease]], [[non-alcoholic fatty liver]], [[obesity]]
+tags:: [[bile acids]], [[cardiovascular disease]], [[Diabetes]], [[gallstone disease]], [[non-alcoholic fatty liver]], [[Obesity]]
 itemTitle:: Factors Influencing Gallstone Formation: A Review of the Literature
 url:: https://www.mdpi.com/2218-273X/12/4/550
 version:: 1626
