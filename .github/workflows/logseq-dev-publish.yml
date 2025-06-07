@@ -27,7 +27,7 @@ jobs:
       - name: Build graph's SPA
         uses: logseq/publish-spa@v0.3.0
         with:
-          graph-directory: SVLMD
+          graph-directory: .
           theme-mode: dark
           accent-color: cyan
 
@@ -37,7 +37,7 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages
+          branch: dev-build
           folder: www
           clean: true
           single-commit: true
