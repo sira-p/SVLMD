@@ -1,4 +1,6 @@
 #### Bacteria
+template:: bacteria
+template-including-parent:: false
 	- alias::
 	  author::
 	  reviewer::
