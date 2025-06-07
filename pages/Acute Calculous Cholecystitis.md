@@ -12,4 +12,4 @@
 		- **Third phase: Chronic or purulent** (after 6 days) - [[Leukocyte]] infiltration, necrotic tissue, and suppuration along with 
 		  logseq.order-list-type:: number
 		  intraluminal pus and gross infection.
--
+	- After the acute phase, intraluminal pus is replaced with granulation tissue and eventually progresses to [[Chronic Cholecystitis]].
