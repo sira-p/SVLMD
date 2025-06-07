@@ -11,5 +11,16 @@ alias:: LODCRAFTS
 - **T**ime: frequency, progression, cyclic, non-cyclic
 - **S**everity
 -
-- ## Template
-	-
+- ## [[LODCRAFT]]
+  template:: LODCRAFT
+  template-including-parent:: false
+	- Location:
+	- Onset:
+	- Duration:
+	- Characteristics:
+	- Radiation:
+	- Associated symptoms:
+	- Aggravating factors:
+	- Relieving factors:
+	- Time:
+	- Severity:

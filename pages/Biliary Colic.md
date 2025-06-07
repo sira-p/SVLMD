@@ -1,3 +1,10 @@
-- Dull, steady pain
--
--
+- Location:
+- Onset:
+- Duration:
+- Characteristics: Dull, steady pain
+- Radiation:
+- Associated symptoms:
+- Aggravating factors:
+- Relieving factors:
+- Time:
+- Severity:
