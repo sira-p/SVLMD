@@ -29,7 +29,9 @@ review-date::
 		- Over a 20-year period, 2/3 remain asymptomatic.
 	- ### [[Symptomatic Gallstone]]
 		- #[[Biliary Colic]]
-		-
+			- {{embed ((6843f8fb-ffa0-44cb-bda4-aaf864cf0518))}}
+			- If the symptoms are atypical for [[Biliary Colic]], rule out other causes, such as [[Peptic Ulcer Disease]]
+		- 10-20% develop symptoms or complications per year.
 - ## Investigation
 	- #Ultrasound
 		- #[[Posterior Acoustic Shadowing]]
@@ -49,6 +51,9 @@ review-date::
 				- Hemolytic diseases
 					- Increases risk of #[[Pigmented Gallstone]]
 					- Such as #[[Hereditary spherocytosis]], #[[Sickle Cell Anemia]], #[[Thalassemia]]
+	- [[Symptomatic Gallstone]]
+		- Elective [[Cholecystectomy]]
+		- Avoid fatty and large meal while awaiting [[Surgery]]
 - ## References
 	- [[References/sunFactorsInfluencingGallstone2022]]
 	- [[References/goodUltrasonicPropertiesGallstones1979]]
