@@ -1,11 +1,13 @@
-## Sira's Very Large Medical Database
+icon:: 🩺
+
+- ## Sira's Very Large Medical Database
 -
 - # [[Medicine]]
 - # [[Surgery]]
 - # [[Microbiology]]
 -
 - ## Authors
-	- [[Author/Sira Pornsiriprasert]]
+	- [[Sira Pornsiriprasert]]
 	-
 - ## Internal Pages
 	- [[Templates]]

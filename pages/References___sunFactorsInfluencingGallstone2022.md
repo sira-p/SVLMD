@@ -1,25 +1,34 @@
-accessDate:: [[Jun 7th, 2025]]
-citeKey:: sunFactorsInfluencingGallstone2022
-collections:: [[SVLMD]]
-authors:: Hao Sun (author), Jonathan Warren (author), James Yip (author), Yu Ji (author), Shaolong Hao (author), Wei Han (author), Yuchuan Ding (author)
-date:: 2022/4
-dateAdded:: [[Jun 7th, 2025]]
-dateModified:: [[Jun 7th, 2025]]
-DOI:: 10.3390/biom12040550
-ISSN:: 2218-273X
-issue:: 4
-itemType:: [[journalArticle]]
-key:: FFKI7PX8
-language:: en
-libraryCatalog:: www.mdpi.com
-libraryLink:: zotero://select/library/items?itemKey=FFKI7PX8
-pages:: 550
-publicationTitle:: Biomolecules
-shortTitle:: Factors Influencing Gallstone Formation
-tags:: [[bile acids]], [[cardiovascular disease]], [[Diabetes]], [[gallstone disease]], [[non-alcoholic fatty liver]], [[Obesity]]
-itemTitle:: Factors Influencing Gallstone Formation: A Review of the Literature
-url:: https://www.mdpi.com/2218-273X/12/4/550
-version:: 1626
-volume:: 12
+alias:: Sun (2022) Factors Influencing Gallstone Formation: A Review of the Literature
+type:: article
+icon:: 📚
 
--
+- accessDate:: 
+  attachments:: 
+  citeKey:: 
+  collections:: 
+  authors:: 
+  date:: 
+  dateAdded:: 
+  dateModified:: 
+  DOI:: 
+  ISBN:: 
+  ISSN:: 
+  issue:: 
+  itemType:: 
+  journalAbbreviation:: 
+  key:: sunFactorsInfluencingGallstone2022
+  language:: 
+  libraryCatalog:: 
+  libraryLink:: 
+  pages:: 550
+  parentItem:: 
+  publicationTitle:: 
+  relations:: 
+  shortTitle:: 
+  tags:: 
+  itemTitle:: Factors Influencing Gallstone Formation: A Review of the Literature
+  url:: 
+  version:: 
+  volume:: 12
+- Abstract
+	- Gallstone disease is a common pathology of the digestive system with nearly a 10–20% incidence rate among adults. The mainstay of treatment is cholecystectomy, which is commonly associated with physical pain and may also seriously affect a patient's quality of life. Clinical research suggests that cholelithiasis is closely related to the age, gender, body mass index, and other basic physical characteristics of patients. Clinical research further suggests that the occurrence of cholelithiasis is related to obesity, diabetes, non-alcoholic fatty liver, and other diseases. For this reason, we reviewed the following: genetic factors; excessive liver cholesterol secretion (causing cholesterol supersaturation in gallbladder bile); accelerated growth of cholesterol crystals and solid cholesterol crystals; gallbladder motility impairment; and cardiovascular factors. Herein, we summarize and analyze the causes and mechanisms of cholelithiasis, discuss its correlation with the pathogenesis of related diseases, and discuss possible mechanisms.

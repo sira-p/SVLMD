@@ -1,9 +1,12 @@
 #### Bacteria
-alias:: 
-Author:: 
-Reviewer:: 
-review-date:: 
-gram-stain:: 
-morphology:: 
-lab:: 
-oxygen-environment::
+template:: bacteria
+template-including-parent:: false
+	- alias::
+	  author::
+	  reviewer::
+	  review-date::
+	- gram-stain::
+	  morphology::
+	  lab::
+	  oxygen-environment::
+	  tags::
