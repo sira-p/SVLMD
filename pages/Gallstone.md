@@ -17,7 +17,7 @@ review-date::
 		- [[Pigmented Gallstone]]
 		- [[Mixed Gallstone]]
 - ## Risk Factors
-	- Gallstone formation is influenced by a combination of genetic, metabolic, and lifestyle factors #References/sunFactorsInfluencingGallstone2022.
+	- Gallstone formation is influenced by a combination of genetic, metabolic, and lifestyle factors [(Sun, 2022)]([[References/sunFactorsInfluencingGallstone2022]]).
 		- **Genetic predisposition** and family history
 		- **[[Obesity]], [[Diabetes]], and [[metabolic syndromes]]**: These conditions disturb cholesterol homeostasis, leading to cholesterol supersaturation in bile.
 		- **Age, gender, and body mass index**: Older age and female sex are significant risk factors.
@@ -36,7 +36,7 @@ review-date::
 	- #Ultrasound
 		- #[[Posterior Acoustic Shadowing]]
 			- Posterior acoustic shadowing on ultrasound is a classic feature of gallstones. **This shadowing is most commonly produced by gallstones that are larger than 3–4 mm in diameter, regardless of their composition.** The shadowing occurs because the stone 
-			  strongly reflects and absorbs the ultrasound waves, preventing them from passing through and creating a dark area behind the stone on the image. [[References/goodUltrasonicPropertiesGallstones1979]]
+			  strongly reflects and absorbs the ultrasound waves, preventing them from passing through and creating a dark area behind the stone on the image.[(Good, 1979)]([[References/goodUltrasonicPropertiesGallstones1979]])
 - ## Management
 	- ### [[Asymptomatic gallstone]]
 		- Expectant management & reassuring
