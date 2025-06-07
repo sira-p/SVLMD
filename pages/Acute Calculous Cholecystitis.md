@@ -1,5 +1,10 @@
-## Pathophysiology
-id:: 6843fb92-e840-4942-b933-10bbdee8c89e
+[[alias]]::
+author:: [[Sira Pornsiriprasert]] 
+[[Reviewer]]::
+[[review-date]]::
+
+- ## Pathophysiology
+  id:: 6843fb92-e840-4942-b933-10bbdee8c89e
 	- According to [(Gallaher, 2022)]([[References/gallaherAcuteCholecystitisReview2022]]),
 	  id:: 68446740-93eb-4aa7-b49b-a1a4a8488663
 	- Cystic duct obstruction -> Intraluminal pressure -> Inflammatory response -> Secondary bacterial infection -> [[GB]] inflammation -> [[SIRS]]
