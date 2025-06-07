@@ -1,6 +1,4 @@
-public:: true
-
-- ## Sira's Very Large Medical Database
+## Sira's Very Large Medical Database
 -
 - # [[Medicine]]
 - # [[Surgery]]
