@@ -24,6 +24,9 @@ review-date::
 		- **Impaired gallbladder motility** and excessive cholesterol secretion by the liver.
 		- **Other factors**: [[Non-alcoholic Fatty Liver Disease]] and rapid weight loss can also increase risk.
 - ## History
+	- ### [[Asymptomatic Gallstone]]
+		- 1-2% develop symptoms or complications per year.
+		- Over a 20-year period, 2/3 remain asymptomatic.
 	- ### [[Symptomatic Gallstone]]
 		- #[[Biliary Colic]]
 		-
