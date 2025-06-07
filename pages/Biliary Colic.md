@@ -7,7 +7,7 @@ review-date::
 - Often associated with nausea and vomiting, but usually not with fever or jaundice unless complications develop.
 - ## [[LODCRAFT]] for [[Biliary Colic]]
   id:: 6843f8fb-ffa0-44cb-bda4-aaf864cf0518
-	- Modified from [(Hapca, 2021)]([[References/Hapca2021Biliary]]).
+	- Modified from
 	- Location: #Epigastrium, #RUQ
 	- Onset: Episodic
 	- Duration: Acute
