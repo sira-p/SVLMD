@@ -4,6 +4,6 @@ reviewer::
 review-date::
 
 - gram-stain:: [[Gram-positive]] 
-  morphology:: [[Cocci-in-chain]] 
+  morphology:: [[Diplococci]] ([[Coccus]]) 
   lab:: [[Catalase-negative]], [[Alpha Hemolysis]], [[Bile-soluble]], [[Optochin-sensitive]] 
   oxygen-environment:: [[Clinically Aerobic Bacteria]]
