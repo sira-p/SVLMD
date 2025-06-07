@@ -21,9 +21,9 @@ review-date::
 		- Elevated [[CRP]]
 		- Elevated [[WBC]] (WBC > 10,000) or depressed WBC (WBC < 4,000)
 	- ### Imaging Findings Characteristic of Acute Cholecystitis
-		-
+- ## Grading
+	- Grading of acute cholecystitis follows the **Tokyo Guideline 2018** [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]).
+	-
 - ## Investigation
 	- ### Imaging
 		- #### [[Ultrasound]]
-			-
-		-
