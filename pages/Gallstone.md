@@ -1,4 +1,7 @@
-alias:: GS, Cholelithiasis
+alias:: GS, [[Cholelithiasis]]
+author:: [[Author/Sira Pornsiriprasert]] 
+reviewer::
+review-date::
 
 - Gallstones are highly prevalent and the majority are asymptomatic.
 - ## Types of Gallstone
