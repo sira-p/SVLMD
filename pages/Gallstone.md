@@ -9,9 +9,9 @@ alias:: GS
 		- [[Calculous Acute Cholecystitis]]
 	- [[Mirizzi Syndrome]]
 - ## Risk Factors
-	- Gallstone formation is influenced by a combination of genetic, metabolic, and lifestyle factors [[References/sunFactorsInfluencingGallstone2022]].
+	- Gallstone formation is influenced by a combination of genetic, metabolic, and lifestyle factors #References/sunFactorsInfluencingGallstone2022.
 		- **Genetic predisposition** and family history
-		  **Obesity, diabetes, and metabolic syndrome**: These conditions disturb cholesterol homeostasis, leading to cholesterol supersaturation in bile.
+		- **[[Obesity]], [[diabetes]], and [[metabolic syndromes]]**: These conditions disturb cholesterol homeostasis, leading to cholesterol supersaturation in bile.
 		- **Age, gender, and body mass index**: Older age and female sex are significant risk factors.
 		- **Impaired gallbladder motility** and excessive cholesterol secretion by the liver.
 		- **Other factors**: Non-alcoholic fatty liver disease and rapid weight loss can also increase risk.
