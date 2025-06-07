@@ -1,8 +1,9 @@
-alias:: Sun () Factors Influencing Gallstone Formation: A Review of the Literature 
-type:: article;
-status:: 
-icon:: 📚
+fun:: block
 
+- alias:: Sun () Factors Influencing Gallstone Formation: A Review of the Literature 
+  type:: article;
+  status:: 
+  icon:: 📚
 - *Factors Influencing Gallstone Formation: A Review of the Literature*. Multidisciplinary Digital Publishing Institute.
 	- Sun, Hao, .
 	- https://www.mdpi.com/2218-273X/12/4/550
