@@ -1,4 +1,10 @@
-- [[Clinically Aerobe]]
+- [[Clinically Aerobic Bacteria]]
 	- [[Gram-positive Bacteria]]
-- [[Clinically Anaerobe]]
+		- [[Coccus]]
+			- [[Staphylococcus]]
+			- [[Streptococcus]]
+			- [[Enterococcus]]
+		- [[Bacillus]]
+	- [[Gram-negative Bacteria]]
+- [[Clinically Anaerobic Bacteria]]
 -

@@ -1,0 +1,5 @@
+- *[[Streptococcus pneumoniae]]*
+- *[[Streptococcus mutans]]*
+- *[[Streptococcus mitis]]*
+- *[[Streptococcus sanguinis]]*
+-

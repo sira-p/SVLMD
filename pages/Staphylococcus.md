@@ -1,0 +1,4 @@
+- *[[Staphylococcus aureus]]*
+- *[[Staphylococcus epidermidis]]*
+- *[[Staphylococcus saprophyticus]]*
+- *[[Staphylococcus hemolyticus]]*
