@@ -1,7 +1,7 @@
-[[alias]]::
+alias::
 author:: [[Sira Pornsiriprasert]] 
-[[Reviewer]]::
-[[review-date]]::
+Reviewer::
+review-date::
 
 - [[Clinically Aerobic Bacteria]]
 	- [[Gram-positive Bacteria]]
