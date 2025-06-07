@@ -1,4 +1,4 @@
-alias:: [[Strep]]
+alias:: [[Strep]], [[Streptococci]]
 author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::
@@ -23,4 +23,11 @@ review-date::
 		- *[[Streptococcus gallolyticus]]*
 		- See also: [[Enterococcus]]
 - ## [[Lancefield Grouping]]
-	- Lancefield grouping is a system that mainly classifies #Microbe/Bacteria/Streptococcus based on #[[Immunology/Antigen/Surface Antigen]].
+	- Lancefield grouping is a system that mainly classifies [[Streptococci]] based on [[Surface Antigen]].
+		- ### [[Lancefield Group A]]
+			- {{query (property :tags [[Lancefield Group A]])}}
+			  query-table:: false
+			  query-properties:: [:page :block]
+			  collapsed:: true
+		- ### [[Lancefield Group B]]
+		-
