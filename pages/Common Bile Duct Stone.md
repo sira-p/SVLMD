@@ -14,10 +14,10 @@ review-date::
 			- Associated with infection or bile stasis
 		- Secondary [[CBDS]] (80%) - [[GS]] migrated from the [[GB]]
 			- Often cholesterol or black pigmented stones
-	- ### Classification by composition [(Malet, )]([[References/maletQuantitativeInfraredSpectroscopy]])
+	- ### Classification by composition [(Malet, 1988)]([[References/maletQuantitativeInfraredSpectroscopy1988]])
 		- | Type                | Main Components                                  | Typical Origin      | Key Features                                         |
 		  |---------------------|--------------------------------------------------|---------------------|------------------------------------------------------|
 		  | Cholesterol Stones  | Mostly cholesterol (up to 85%)                   | Usually secondary   | Yellowish, often from [[Gallbladder]]                   |
 		  | Black Pigment Stones| Calcium bilirubinate, carbonate, phosphate       | Usually secondary   | Hard, black, associated with hemolysis              |
 		  | Brown Pigment Stones| Bilirubinate, calcium palmitate, some cholesterol| Usually primary     | Softer, brown, linked to infection and stasis       |
-	-
+	- Other forms: sludge, gravel, foreign body stones
