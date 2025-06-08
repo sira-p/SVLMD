@@ -21,10 +21,10 @@ review-date::
 		  | Brown Pigment Stones| Bilirubinate, calcium palmitate, some cholesterol| Usually primary     | Softer, brown, linked to infection and stasis       |
 	- Other forms: sludge, gravel, foreign body stones
 - ## Clinical Presentations
-	- [[CBDS]] can present as asymptomatic, [[Biliary Colic]] with [[Juandice]], or [[Cholangitis]] [(Cox, 2015)]([[References/coxTimingNaturePresentation2015]]).
+	- [[CBDS]] can present as asymptomatic, [[Biliary Colic]] with [[Jaundice]], or [[Cholangitis]] [(Cox, 2015)]([[References/coxTimingNaturePresentation2015]]).
 	- ### Common Symptoms
 		- [[Abdominal Pain]]
-		- [[Juandice]]
+		- [[Jaundice]]
 		- [[Fever]]
 		- [[Nausea and Vomiting]]
 	- ### Complications and Severe Presentations
@@ -48,7 +48,6 @@ review-date::
 - ## Management
   id:: 68450b54-956a-49cf-8220-ffb5218f45ce
 	- Since asymptomatic and symptomatic [[CBDS]] patients likely develop symptoms and complications in near future, [[CBDS removal]] and [[Cholecystectomy]] is indicated.
-id:: 68450bc5-50ef-402c-adca-83b70dcbd76d
 		- **[[Minimally Invasive Surgery]]**: [[ERCP]] + [[LC]]
 		- **Open surgery**: [[CBDE]] + [[OC]] + [[T-Tube]] insertion
 -
