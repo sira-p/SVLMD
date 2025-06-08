@@ -42,4 +42,7 @@ review-date::
 		- Better evaluation of [[CBD]] than [[ultrasound]].
 		- Can miss non-opaque [[CBDS]] and [[GS]].
 		- Good for evaluating biliary tract malignancy.
-	-
+	- ### [[Magnetic Resonance Cholangiopancreatography]] (MRCP)
+		- Gold standard for diagnosing [[CBDS]]
+- ## Management
+	- Since asymptomatic and symptomatic CBDS patients likely develop symptoms and complications in near future, CBDS removal and
