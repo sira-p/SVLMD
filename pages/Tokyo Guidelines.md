@@ -4,7 +4,9 @@ parent:: [[Acute Cholangitis]], [[Acute Cholecystitis]]
 - author:: [[Sira Pornsiriprasert]] 
   reviewer::
   review-date::
+- ## [[Acute Cholangitis]]
 - ## [[Acute Cholecystitis]]
+  collapsed:: true
 	- Main article: [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]])
-- {{embed ((68450222-c8ca-48ed-a3fa-19aca4430ad3))}}
-- {{embed ((68450222-1a6f-4817-a98e-2b4d1a4b4952))}}
+	- {{embed ((68450222-c8ca-48ed-a3fa-19aca4430ad3))}}
+	- {{embed ((68450222-1a6f-4817-a98e-2b4d1a4b4952))}}
