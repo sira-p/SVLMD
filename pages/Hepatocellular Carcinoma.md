@@ -32,3 +32,7 @@ parent:: [[Liver Cancer]]
 			- **Acute [[Liver Failure]]**
 			- **Peritoneal seeding**
 			- **[[Mortality]]**
+- ## Diagnosis
+	- The investigation and diagnosis of hepatocellular carcinoma (HCC) rely on a combination of surveillance, imaging, and laboratory tests, with a focus on early detection in high-risk individuals[(Yang, 2020)]([[References/yangNewAdvancesDiagnosis2020]])
+	- ### Surveillance and Initial Assessment
+	-
