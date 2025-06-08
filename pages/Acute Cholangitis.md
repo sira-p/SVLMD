@@ -18,7 +18,7 @@ parent:: [[Biliary Tract Diseases]]
 		- The three symptoms highlighted in green are called the **[[Charcot Triad]]**.
 		- All of the symptoms above combined are called the **[[Reynold Pentad]]**.
 - ## Diagnosis
-	- The **[[Tokyo Guidelines 2018]]** is used for [[Acute Cholangitis]] diagnosis [(Kiriyama, 2018)]([[References/kiriyamaTokyoGuidelines20182018]]).
+	- The **[[Tokyo Guidelines 2018]]** is used for [[Acute Cholangitis]] diagnosis [(Kiriyama, 2018)]([[References/kiriyamaTokyoGuidelines20182018]]) [(Miura, 2018)]([[References/miuraTokyoGuidelines20182018]]).
 	- Online calculator: https://www.mdcalc.com/calc/10142/tokyo-guidelines-acute-cholangitis-2018
 	- ### Criteria
 		- **Suspected**: 1 systemic sign + 1 [[Cholestasis]] sign
@@ -31,6 +31,8 @@ parent:: [[Biliary Tract Diseases]]
 		- **[[Jaundice]]**
 		- Abnormal **[[Liver Function Test]]**: Elevated serum [[ALP]], [[GGT]], [[AST]], [[ALT]].
 	- ### Imaging Findings Characteristic of Acute Cholangitis
+		- **Biliary Dilatation**
+		- **Evidence of Etiology:** Identify the cause of obstruction, such as bile duct stones, strictures, or tumors.
 - ## Management
 	- The management of [[acute cholangitis]] can be divided into two parts:
 		- **Treating the obstruction** - [[CBDS]] removal + Biliary drainage
