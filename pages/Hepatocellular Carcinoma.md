@@ -44,4 +44,8 @@ parent:: [[Liver Cancer]]
 	- ### Histopathology
 		- **[[Liver Biopsy]]:** Reserved for cases where imaging is inconclusive or atypical.
 - ## Management
-	-
+	- ### Curative Treatments (Early-Stage HCC)
+		- **Surgical resection:** preferred for patients with good liver function and limited disease.
+		- **[[Liver Transplantation]]**
+		- **[[Ablation Therapy]]:** Alternative when surgery is not possible
+		-
