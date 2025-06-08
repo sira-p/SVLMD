@@ -13,6 +13,11 @@ review-date::
 		- [[Juandice]]
 		- [[Fever]]
 		- [[Nausea and Vomiting]]
+	- ### Complications and Severe Presentations
+		- [[Cholangitis]]
+		- [[Acute Pancreatitis]]
+		- Obstructive [[Juandice]]
+		-
 	-
 - ## Types of [[CBDS]]
 	- ### Classification by origin [(Liu, 2000)]([[References/liuPathogenesisPresentationCommon2000]])
