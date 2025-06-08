@@ -20,5 +20,5 @@ parent:: [[Biliary Tract Diseases]]
 - ## Management
 	- The management of [[acute cholangitis]] can be divided into two parts:
 		- **Treating the obstruction** - [[CBDS]] removal + Biliary drainage
+			-
 		- **Treating the infection** - [[ATB]] therapy (mostly [[Gram-negative Bacteria]] )
-		-
