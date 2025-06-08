@@ -1,5 +1,6 @@
 type:: article
 icon:: 📚
+exclude-from-graph-view:: true
 
 - accessDate:: 
   attachments:: 
