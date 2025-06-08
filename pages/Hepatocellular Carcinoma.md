@@ -38,4 +38,8 @@ parent:: [[Liver Cancer]]
 		- **Target Population:** Patients with [[Cirrhosis]] or chronic hepatitis B are recommended to undergo regular surveillance due to their high risk for [[HCC]] .
 		- **Surveillance Tools:** Biannual liver [[Ultrasonography]] is the standard method, often combined with serum [[AFP]] testing, though AFP alone is not sufficiently sensitive or specific.
 	- ### Diagnostic Imaging
-		- **First-line:** multiphasic [[Contrast-enhaced Computed Tomography]] or [[Magnetic Resonance Imaging]] (MRI) is performed
+		- **First-line:** Multiphasic [[Contrast CT]], [[Magnetic Resonance Imaging]] (MRI)
+		- **Characteristics:** arterial phase hyperenhancement and portal venous or delayed phase washout.
+			- [[HCC]] can be diagnosed non-invasively.
+	- ### Histopathology
+		- **[[Liver Biopsy]]:** Reserved for cases where imaging is inconclusive or atypical.
