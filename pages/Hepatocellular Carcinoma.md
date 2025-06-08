@@ -48,5 +48,12 @@ parent:: [[Liver Cancer]]
 		- **Surgical resection:** preferred for patients with good liver function and limited disease.
 		- **[[Liver Transplantation]]**
 		- **[[Ablation Therapy]]:** Alternative when surgery is not possible
-	- ### Locoregional Therapies (Intermediate-Stage HCC)
-		- ****
+	- ### Locoregional Therapies (Intermediate-Stage HCC) [(Lencioni, 2010)]([[References/lencioniLocoregionalTreatmentHepatocellular2010]])
+		- **[[Transarterial Chemoembolization]] (TACE):** Delivers chemotherapy directly to the tumor via its blood supply.
+			- Standard for patients with larger or multifocal tumors not amenable to curative treatment
+		- **[[Radioembolization]]:** Uses radioactive particles to target tumors when TACE is not suitable.
+	- ### Systemic Therapies (Advanced-Stage HCC) [(Forner, 2019)]([[References/fornerControversiesManagementHepatocellular2019]])
+		- **Targeted Therapies:** [[Sorafenib]], [[Lenvatinib]]
+		- **[[Immunotherapy]]**
+	- ### Supportive and Palliative Care
+		- Patients with advanced disease or poor liver function
