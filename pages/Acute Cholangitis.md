@@ -69,6 +69,6 @@ parent:: [[Biliary Tract Diseases]]
 	- The management of [[acute cholangitis]] can be divided into two parts:
 		- **Treating the obstruction** - [[CBDS removal]] + [[Biliary Drainage]]
 		- **Treating the infection** - [[ATB]] therapy (mostly [[Gram-negative Bacteria]] )
-	- ### Grade III: [[ATB]] + Urgent [[Biliary Drainage]]
-	- ### Grade II: [[ATB]] + [[CBDS Removal]] or B
-	- ### Grade I: [[ATB]] + [[CBDS Removal]]
+	- ### Grade III: [[ATB]] + Urgent [[Biliary Drainage]] ± [[CBDS Removal]] if patient is stable
+	- ### Grade II: [[ATB]] + [[CBDS Removal]] or [[Biliary Drainage]] (tumor) within the same visit
+	- ### Grade I: [[ATB]] + [[CBDS Removal]] or [[Biliary Drainage]] (tumor) within the same visit
