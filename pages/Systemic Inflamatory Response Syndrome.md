@@ -1,1 +1,1 @@
-alias:: [[SIRS]]
+alias:: SIRS

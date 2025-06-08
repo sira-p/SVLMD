@@ -1,4 +1,4 @@
-alias:: [[AC]]
+alias:: AC
 author:: [[Sira Pornsiriprasert]] 
 Reviewer::
 review-date::
