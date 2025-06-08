@@ -45,4 +45,7 @@ review-date::
 	- ### [[Magnetic Resonance Cholangiopancreatography]] (MRCP)
 		- Gold standard for diagnosing [[CBDS]]
 - ## Management
-	- Since asymptomatic and symptomatic CBDS patients likely develop symptoms and complications in near future, CBDS removal and
+	- Since asymptomatic and symptomatic [[CBDS]] patients likely develop symptoms and complications in near future, [[CBDS]] removal and [[Cholecystectomy]] is indicated.
+		- **[[Minimally Invasive Surgery]]**: [[ERCP]] + [[LC]]
+		- **Open surgery**: [[CBDE]] + [[OC]] + [[T-Tube]] insertion
+-
