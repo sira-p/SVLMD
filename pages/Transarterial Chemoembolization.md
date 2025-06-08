@@ -13,4 +13,3 @@ parent::
 - ## Complications
 	- **GI S/E [(Arendt, 2025)]([[References/arendtGastrointestinalSideEffects2025]]):** [[Abdominal Pain]], [[Nausea and Vomiting]], [[Diarrhea]], GI toxicity ([[Loss of Appetite]], [[Malaise]])
 	- **[[Post-Embolization Syndrome]] (PES):** [[Fever]], [[Abdominal Pain]], [[N/V]], [[Malaise]]
-	-
