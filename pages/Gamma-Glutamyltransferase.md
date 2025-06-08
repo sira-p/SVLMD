@@ -1,2 +1,2 @@
-alias:: AST
+alias:: GGT
 parent:: [[Liver Function Test]]

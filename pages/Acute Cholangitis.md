@@ -29,7 +29,7 @@ parent:: [[Biliary Tract Diseases]]
 		- Elevated **[[WBC]]** (WBC > 10,000) or depressed WBC (WBC < 4,000)
 	- ### Signs of [[Cholestasis]]
 		- **[[Jaundice]]**
-		- Abnormal **[[Liver Function Test]]**: Elevated serum [[Aspartate transaminase]]
+		- Abnormal **[[Liver Function Test]]**: Elevated serum [[Aspartate Transaminase]]
 	- ### Imaging Findings Characteristic of Acute Cholangitis
 		- According to [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]), the accepted imaging findings of acute cholecystitis are:
 			- **Thickening** of the gallbladder wall (≥4 mm)
