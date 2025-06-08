@@ -15,9 +15,8 @@ alias:: Sira's Very Large Medical Database
 - # [[Immunology]]
 - # [[Pharmacology]]
 -
+- # [[About]]
 - # [[Contribution]]
-- # [[Changelog]]
-- # [[TODO]]
 - # [[Authors]]
 	- [[Sira Pornsiriprasert]]
 	-
