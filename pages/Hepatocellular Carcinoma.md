@@ -12,6 +12,12 @@ parent:: [[Liver Cancer]]
 	- [[RUQ]] or generalized **[[Abdominal Pain]]**
 	- **Liver dysfunctions:** [[Jaundice]], [[Ascites]], [[Hepatic Encephalopathy]], [[Variceal Bleeding]]
 	- Systemic symptoms: [[Weight Loss]], [[Lethargy]], [[Malaise]]
-- ## Risk Factors [(Chitapanarux, 2015)]([[References/chitapanaruxRiskFactorsDevelopment2015]])
+- ## Risk Factors in Thailand [(Chitapanarux, 2015)]([[References/chitapanaruxRiskFactorsDevelopment2015]])
 	- Chronic [[HBV]] infection
-	-
+	- [[HCV]] infection
+	- [[Liver Cirrhosis]]
+	- [[Alcohol Consumption]]
+	- [[Diabetes]]
+	- [[Smoking]]
+	- [[Aflatoxin B1]] exposure: peanuts, corn, grains
+-
