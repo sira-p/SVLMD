@@ -5,9 +5,14 @@ review-date::
 
 - **Common bile duct stones (CBDS)**, also known as [[Choledocholithiasis]], are 
   present in 10–20% of individuals with symptomatic gallstones and can 
-  cause pain, jaundice, infection, and acute pancreatitis [(Williams, 2017)]([[References/williamsUpdatedGuidelineManagement2017]]).
+  cause **pain, jaundice, infection, and acute pancreatitis** [(Williams, 2017)]([[References/williamsUpdatedGuidelineManagement2017]]).
 - ## Clinical Presentations
-	- [[CBDS]] can present as asymptomatic, [[Biliary Colic]] with [[Juandice]], or [[Cholangitis]].
+	- [[CBDS]] can present as asymptomatic, [[Biliary Colic]] with [[Juandice]], or [[Cholangitis]] [(Cox, 2015)]([[References/coxTimingNaturePresentation2015]]).
+	- ### Common Symptoms
+		- [[Abdominal Pain]]
+		- [[Juandice]]
+		- [[Fever]]
+		- [[Nausea and Vomiting]]
 	-
 - ## Types of [[CBDS]]
 	- ### Classification by origin [(Liu, 2000)]([[References/liuPathogenesisPresentationCommon2000]])
