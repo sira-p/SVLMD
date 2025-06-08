@@ -4,6 +4,8 @@ alias:: Sira's Very Large Medical Database
 -
 - # [[Medicine]]
 - # [[Surgery]]
+- # [[Pediatrics]]
+- # [[Orthopedics]]
 - # [[Ophthalmology]]
 - # [[Anesthesiology]]
 -
