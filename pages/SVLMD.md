@@ -1,7 +1,6 @@
 icon:: 🩺
 alias:: Sira's Very Large Medical Database
 
-- ## Sira's Very Large Medical Database
 -
 - # [[Medicine]]
 - # [[Surgery]]
