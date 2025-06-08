@@ -7,10 +7,11 @@ parent:: [[Liver Cancer]]
 - **Hepatocellular carcinoma** (HCC) is the most common primary [[Liver Cancer]] and the fifth most common malignancy worldwide [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]]).
 - Its clinical presentation is highly variable. Patients may be asymptomatic, especially in early stages, or present with a range of symptoms related to liver dysfunction or tumor growth.
 - Early detection is increasing due to improved screening and imaging.
-- ## Clinical Presentation
+- ## Clinical Presentation [(Bisceglie, 2002)]([[References/bisceglieEpidemiologyClinicalPresentation2002]])
 	- **Asymptomatic:** Early-stage [[HCC]], diagnosed through screening
 	- [[RUQ]] or generalized **[[Abdominal Pain]]**
 	- **Liver dysfunctions:** [[Jaundice]], [[Ascites]], [[Hepatic Encephalopathy]], [[Variceal Bleeding]]
 	- Systemic symptoms: [[Weight Loss]], [[Lethargy]], [[Malaise]]
-	- [(Bisceglie, 2002)]([[References/bisceglieEpidemiologyClinicalPresentation2002]])
-- ##
+- ## Risk Factors [(Chitapanarux, 2015)]([[References/chitapanaruxRiskFactorsDevelopment2015]])
+	- Chronic [[HBV]] infection
+	-
