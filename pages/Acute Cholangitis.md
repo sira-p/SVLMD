@@ -20,7 +20,23 @@ parent:: [[Biliary Tract Diseases]]
 - ## Diagnosis
 	- The **[[Tokyo Guidelines 2018]]** is used for [[Acute Cholangitis]] diagnosis.
 	- Online calculator: https://www.mdcalc.com/calc/10142/tokyo-guidelines-acute-cholangitis-2018
-	-
+	- ### Criteria
+		- **Suspected**: 1 systemic sign + 1 [[Cholestasis]] sign
+		- **Definite**: 1 systemic sign + 1 cholestasis sign + 1 image finding
+	- ### Systemic Signs of [[Inflammation]]
+		- [[Fever]] with or without [[Rigors]]
+		- Elevated [[CRP]]
+		- Elevated [[WBC]] (WBC > 10,000) or depressed WBC (WBC < 4,000)
+	- ### Signs of [[Cholestasis]]
+		- [[Jaundice]]
+		-
+	- ### Imaging Findings Characteristic of Acute Cholecystitis
+		- According to [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]), the accepted imaging findings of acute cholecystitis are:
+			- **Thickening** of the gallbladder wall (≥4 mm)
+			- **Enlargement** of the gallbladder (long axis ≥8 cm, short axis ≥4 cm)
+			- **Gallstones** or retained debris
+			- **Fluid accumulation** around the gallbladder
+			- **Linear shadows** in the fatty tissue around the gallbladder
 - ## Management
 	- The management of [[acute cholangitis]] can be divided into two parts:
 		- **Treating the obstruction** - [[CBDS]] removal + Biliary drainage
