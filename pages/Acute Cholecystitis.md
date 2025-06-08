@@ -62,9 +62,10 @@ review-date::
 			  logseq.order-list-type:: number
 	- ### Grade I: Mild
 	  id:: 68450222-bd61-4473-b9ca-2e778bea6dcd
-		- Acute cholecystitis that does not meet the Grade III or Grade II criteria or acute cholecystitis in a healthy patient with no organ dysfunction and mild inflammatory changes in the gallbladder, making cholecystectomy a safe and low-risk operative procedure
+		- Acute cholecystitis that does not meet the Grade III or Grade II criteria or acute cholecystitis in a healthy patient with no organ dysfunction and mild inflammatory changes in the gallbladder, making cholecystectomy a safe and low-risk operative procedure.
 		  id:: 68450222-e20d-474e-8cff-00b5763147bc
 - ## Management
+  id:: 68450222-53b4-4f94-999e-c2162d13b02b
 	- ### Grade III: [[ATB]] + [[Cholecystostomy]]
 	- ### Grade II: [[ATB]] + Urgent [[Cholecystectomy]]
 	- ### Grade I: [[ATB]] + Urgent [[Cholecystectomy]]

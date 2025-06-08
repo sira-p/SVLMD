@@ -18,6 +18,7 @@ parent:: [[Biliary Tract Diseases]]
 		- The three symptoms highlighted in green are called the **[[Charcot Triad]]**.
 		- All of the symptoms above combined are called the **[[Reynold Pentad]]**.
 - ## Diagnosis
+  id:: 684514d7-819b-4eaf-ab4d-70e38a784458
 	- The **[[Tokyo Guidelines 2018]]** is used for [[Acute Cholangitis]] diagnosis [(Kiriyama, 2018)]([[References/kiriyamaTokyoGuidelines20182018]]) [(Miura, 2018)]([[References/miuraTokyoGuidelines20182018]]).
 	- Online calculator: https://www.mdcalc.com/calc/10142/tokyo-guidelines-acute-cholangitis-2018
 	- ### Criteria
@@ -60,12 +61,6 @@ parent:: [[Biliary Tract Diseases]]
 			- [[Total Bilirubin]] ≥5 mg/dl
 			  logseq.order-list-type:: number
 			- Decreased [[Albumin]]
-			  logseq.order-list-type:: number
-			- Palpable tender mass in the [[RUQ]]
-			  logseq.order-list-type:: number
-			- Duration of complaints >72 hr
-			  logseq.order-list-type:: number
-			- Marked local inflammation (gangrenous cholecystitis, pericholecystic abscess, hepatic abscess, biliary peritonitis, emphysematous cholecystitis)
 			  logseq.order-list-type:: number
 	- ### Grade I: Mild
 		- Acute cholangitis that **does not meet the Grade III or Grade II criteria**.
