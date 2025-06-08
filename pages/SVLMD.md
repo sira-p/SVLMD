@@ -7,7 +7,8 @@ alias:: Sira's Very Large Medical Database
 - # [[Surgery]]
 - # [[Microbiology]]
 -
-- ## [[Author]]
+- ## [[Changelog]]
+- ## [[Authors]]
 	- [[Sira Pornsiriprasert]]
 	-
 - ## Internal Pages
