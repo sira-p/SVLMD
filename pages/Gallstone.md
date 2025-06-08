@@ -29,7 +29,7 @@ review-date::
 	- ### [[Asymptomatic Gallstone]]
 		- 1-2% develop symptoms or complications per year.
 		- Over a 20-year period, 2/3 remain asymptomatic.
-	- ### [[Symptomatic Gallstone]]
+	- ### [[Symptomatic Gallstone]] [(Brunicardi, 2021)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])
 		- **[[Biliary Colic]]**
 			- {{embed ((6843f8fb-ffa0-44cb-bda4-aaf864cf0518))}}
 			- If the symptoms are atypical for [[Biliary Colic]], rule out other causes, such as [[Peptic Ulcer Disease]], [[GERD]], ruptured [[AAA]], and cancers
