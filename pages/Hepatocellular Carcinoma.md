@@ -8,6 +8,6 @@ parent:: [[Liver Cancer]]
 - Its clinical presentation is highly variable. Patients may be asymptomatic, especially in early stages, or present with a range of symptoms related to liver dysfunction or tumor growth.
 - Early detection is increasing due to improved screening and imaging.
 - ## Clinical Presentation
-	- Asymptomatic: Early-stage [[HCC]], diagnosed through screening
-	-
+	- **Asymptomatic:** Early-stage [[HCC]], diagnosed through screening
+	- RUQ
 		-
