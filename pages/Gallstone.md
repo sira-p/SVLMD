@@ -1,4 +1,4 @@
-alias:: GS, [[Cholelithiasis]]
+alias:: GS, [[Cholelithiasis]], Gallstones
 parent:: [[Biliary Tract Diseases]] 
 author:: [[Sira Pornsiriprasert]] 
 reviewer::
