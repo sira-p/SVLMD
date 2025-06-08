@@ -10,7 +10,8 @@ review-date::
 	- ## [[Acute Acalculous Cholecystitis]]
 		- {{embed ((684464f7-0f97-469f-a4a4-8db1d3504cb2))}}
 - ## Diagnosis
-	- [[Acute Cholecystitis]] is diagnosed using the **[[Tokyo Guidelines]] 2018** [(Gallaher, 2022)]([[References/gallaherAcuteCholecystitisReview2022]]).
+  id:: 68450222-c8ca-48ed-a3fa-19aca4430ad3
+	- [[Acute Cholecystitis]] is diagnosed using the **[[Tokyo Guidelines 2018]]** [(Gallaher, 2022)]([[References/gallaherAcuteCholecystitisReview2022]]).
 	- ### Criteria
 		- **Suspected**: 1 local sign + 1 systemic sign
 		- **Definite**: 1 local sign + 1 systemic sign + 1 image finding
@@ -28,7 +29,6 @@ review-date::
 			- **Gallstones** or retained debris
 			- **Fluid accumulation** around the gallbladder
 			- **Linear shadows** in the fatty tissue around the gallbladder
-	-
 - ## Grading
   id:: 68450222-1a6f-4817-a98e-2b4d1a4b4952
 	- Grading of acute cholecystitis follows the **[[Tokyo Guidelines]] 2018** [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]).

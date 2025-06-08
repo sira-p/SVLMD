@@ -18,7 +18,8 @@ parent:: [[Biliary Tract Diseases]]
 		- The three symptoms highlighted in green are called the **[[Charcot Triad]]**.
 		- All of the symptoms above combined are called the **[[Reynold Pentad]]**.
 - ## Diagnosis
-	- The [[Tokyo Guidelines]] 2018 is used for [[Acute Cholangitis]] diagnosis.
+	- The **[[Tokyo Guidelines 2018]]** is used for [[Acute Cholangitis]] diagnosis.
+	- Online calculator: https://www.mdcalc.com/calc/10142/tokyo-guidelines-acute-cholangitis-2018
 	-
 - ## Management
 	- The management of [[acute cholangitis]] can be divided into two parts:
