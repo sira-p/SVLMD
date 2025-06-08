@@ -1,12 +1,13 @@
 alias:: Sun (2022) Factors Influencing Gallstone Formation: A Review of the Literature
 type:: article
 icon:: 📚
+exclude-from-graph-view:: true
 
 - accessDate:: 
   attachments:: 
   citeKey:: 
   collections:: 
-  authors:: 
+  author:: 
   date:: 
   dateAdded:: 
   dateModified:: 

@@ -6,7 +6,7 @@ icon:: 📚
   attachments:: 
   citeKey:: 
   collections:: 
-  authors:: 
+  author:: 
   date:: 2022-03-08
   dateAdded:: 
   dateModified:: 

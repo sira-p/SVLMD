@@ -6,7 +6,7 @@ icon:: 🩺
 - # [[Surgery]]
 - # [[Microbiology]]
 -
-- ## Authors
+- ## [[Author]]
 	- [[Sira Pornsiriprasert]]
 	-
 - ## Internal Pages
