@@ -43,3 +43,5 @@ parent:: [[Liver Cancer]]
 			- [[HCC]] can be diagnosed non-invasively.
 	- ### Histopathology
 		- **[[Liver Biopsy]]:** Reserved for cases where imaging is inconclusive or atypical.
+- ## Management
+	-
