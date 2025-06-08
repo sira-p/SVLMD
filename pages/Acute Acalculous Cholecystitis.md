@@ -1,4 +1,5 @@
 alias::
+parent:: [[Gallstone]]
 author:: [[Sira Pornsiriprasert]] 
 Reviewer::
 review-date::

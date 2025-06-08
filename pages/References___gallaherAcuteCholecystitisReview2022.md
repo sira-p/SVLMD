@@ -1,12 +1,12 @@
-alias:: Gallaher (2022) Acute Cholecystitis: A Review
 type:: article
 icon:: 📚
+exclude-from-graph-view:: true
 
 - accessDate:: 
   attachments:: 
   citeKey:: 
   collections:: 
-  authors:: 
+  author:: 
   date:: 2022-03-08
   dateAdded:: 
   dateModified:: 

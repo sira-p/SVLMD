@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["common bile duct stone" "gallstone"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -422,4 +422,7 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :default-home {:page "SVLMD"}
- :zotero/settings-v2 {"default" {:prefer-citekey? false}}}
+ :zotero/settings-v2 {"default" {:prefer-citekey? true, :type-id "14626940", :zotero-linked-attachment-base-directory "", :zotero-data-directory "/home/psira/Zotero/", :extra-tags ""}
+ "empty" {:type-id ""}}
+ :publishing/all-pages-public? true
+ :ui/show-brackets? false}

@@ -1,12 +1,12 @@
-alias:: {author lastname} ({year}) {title}
 type:: {type}
 icon:: 📚
+exclude-from-graph-view:: true
 
 - accessDate:: {accessDate}
   attachments:: {attachments}
   citeKey:: {citeKey}
   collections:: {collections}
-  authors:: {creators}
+  author:: {creators}
   date:: {date}
   dateAdded:: {dateAdded}
   dateModified:: {dateModified}

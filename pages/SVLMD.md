@@ -1,4 +1,5 @@
 icon:: 🩺
+alias:: Sira's Very Large Medical Database
 
 - ## Sira's Very Large Medical Database
 -
@@ -6,7 +7,8 @@ icon:: 🩺
 - # [[Surgery]]
 - # [[Microbiology]]
 -
-- ## Authors
+- ## [[Changelog]]
+- ## [[Authors]]
 	- [[Sira Pornsiriprasert]]
 	-
 - ## Internal Pages

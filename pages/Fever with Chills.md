@@ -1,0 +1,2 @@
+alias:: Rigors
+parent:: [[Fever]]

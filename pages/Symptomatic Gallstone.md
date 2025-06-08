@@ -1,4 +1,4 @@
 alias:: sGS
 author:: [[Sira Pornsiriprasert]] 
-[[Reviewer]]::
+Reviewer::
 review-date::

@@ -1,4 +1,8 @@
 alias:: LODCRAFTS
+parent:: [[Abdominal Pain]] 
+author:: [[Sira Pornsiriprasert]] 
+reviewer::
+review-date::
 
 - Mnemonic for history-taking of #[[Abdominal Pain]].
 - **L**ocation: intra-abdominal, extra-abdominal
