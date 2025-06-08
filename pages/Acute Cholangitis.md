@@ -35,6 +35,7 @@ parent:: [[Biliary Tract Diseases]]
 		- **Biliary Dilatation**
 		- **Evidence of Etiology:** Identify the cause of obstruction, such as bile duct stones, strictures, or tumors.
 - ## Grading
+  id:: 68451e9e-46db-4e5c-a675-49485ffb5ae4
 	- Grading of acute cholangitis follows the **[[Tokyo Guidelines 2018]]** [(Kiriyama, 2018)]([[References/kiriyamaTokyoGuidelines20182018]]).
 	- ### Grade III: Severe
 		- Any one of the following:
@@ -66,6 +67,8 @@ parent:: [[Biliary Tract Diseases]]
 		- Acute cholangitis that **does not meet the Grade III or Grade II criteria**.
 - ## Management
 	- The management of [[acute cholangitis]] can be divided into two parts:
-		- **Treating the obstruction** - [[CBDS]] removal + Biliary drainage
-			- {{embed ((68450bc5-50ef-402c-adca-83b70dcbd76d))}}
+		- **Treating the obstruction** - [[CBDS removal]] + [[Biliary Drainage]]
 		- **Treating the infection** - [[ATB]] therapy (mostly [[Gram-negative Bacteria]] )
+	- ### Grade III: [[ATB]] + Urgent [[Biliary Drainage]]
+	- ### Grade II: [[ATB]] + [[CBDS Removal]] or B
+	- ### Grade I: [[ATB]] + [[CBDS Removal]]

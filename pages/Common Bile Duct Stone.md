@@ -47,7 +47,7 @@ review-date::
 		- Gold standard for diagnosing [[CBDS]]
 - ## Management
   id:: 68450b54-956a-49cf-8220-ffb5218f45ce
-	- Since asymptomatic and symptomatic [[CBDS]] patients likely develop symptoms and complications in near future, [[CBDS]] removal and [[Cholecystectomy]] is indicated.
+	- Since asymptomatic and symptomatic [[CBDS]] patients likely develop symptoms and complications in near future, [[CBDS removal]] and [[Cholecystectomy]] is indicated.
 id:: 68450bc5-50ef-402c-adca-83b70dcbd76d
 		- **[[Minimally Invasive Surgery]]**: [[ERCP]] + [[LC]]
 		- **Open surgery**: [[CBDE]] + [[OC]] + [[T-Tube]] insertion

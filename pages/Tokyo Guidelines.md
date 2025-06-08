@@ -6,6 +6,8 @@ parent:: [[Acute Cholangitis]], [[Acute Cholecystitis]]
   review-date::
 - ## [[Acute Cholangitis]]
 	- Main article: [(Kiriyama, 2018)]([[References/kiriyamaTokyoGuidelines20182018]])
+	- {{embed ((684514d7-819b-4eaf-ab4d-70e38a784458))}}
+	- {{embed ((68451e9e-46db-4e5c-a675-49485ffb5ae4))}}
 	-
 - ## [[Acute Cholecystitis]]
 	- Main article: [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]])
