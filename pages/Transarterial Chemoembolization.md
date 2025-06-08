@@ -10,3 +10,8 @@ parent::
 	- ### Summary [(Sangro, 2014)]([[References/sangroTransarterialChemoembolizationRadioembolization2014]])
 		- Thread a catheter through the arteries to the liver tumor.
 		- Inject [[Chemotherapy]] drugs mixed with embolizing substances to the blood vessels feeding the tumor, depriving it from oxygen and nutrients.
+- ## Side Effects [(Arendt, 2025)]([[References/arendtGastrointestinalSideEffects2025]])
+	- [[Diarrhea]]
+	- [[Nausea and Vomiting]]
+	- GI toxicity: [[Loss of Appetite]], [[Malaise]]
+	- [[Abdominal Pain]]
