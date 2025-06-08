@@ -50,8 +50,16 @@ parent:: [[Biliary Tract Diseases]]
 			- **Hematological dysfunction**: [[Platelet]] count <100,000/mm3
 			  logseq.order-list-type:: number
 	- ### Grade II: Moderate
-		- Any one of the following:
-			- Elevated [[WBC]] count (>18,000/mm3)
+		- Any two of the following:
+			- Elevated [[WBC]] count (≥12,000) or depressed WBC count (<4,000)
+			  logseq.order-list-type:: number
+			- [[Fever]] ≥39°C
+			  logseq.order-list-type:: number
+			- Age ≥75
+			  logseq.order-list-type:: number
+			- [[Total Bilirubin]] ≥5 mg/dl
+			  logseq.order-list-type:: number
+			- Decreased [[Albumin]]
 			  logseq.order-list-type:: number
 			- Palpable tender mass in the [[RUQ]]
 			  logseq.order-list-type:: number
@@ -60,7 +68,7 @@ parent:: [[Biliary Tract Diseases]]
 			- Marked local inflammation (gangrenous cholecystitis, pericholecystic abscess, hepatic abscess, biliary peritonitis, emphysematous cholecystitis)
 			  logseq.order-list-type:: number
 	- ### Grade I: Mild
-		- Acute cholecystitis that does not meet the Grade III or Grade II criteria or acute cholecystitis in a healthy patient with no organ dysfunction and mild inflammatory changes in the gallbladder, making cholecystectomy a safe and low-risk operative procedure
+		- Acute cholangitis that **does not meet the Grade III or Grade II criteria**.
 - ## Management
 	- The management of [[acute cholangitis]] can be divided into two parts:
 		- **Treating the obstruction** - [[CBDS]] removal + Biliary drainage
