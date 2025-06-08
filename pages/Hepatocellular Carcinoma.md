@@ -9,5 +9,8 @@ parent:: [[Liver Cancer]]
 - Early detection is increasing due to improved screening and imaging.
 - ## Clinical Presentation
 	- **Asymptomatic:** Early-stage [[HCC]], diagnosed through screening
-	- RUQ
-		-
+	- [[RUQ]] or generalized **[[Abdominal Pain]]**
+	- **Liver dysfunctions:** [[Jaundice]], [[Ascites]], [[Hepatic Encephalopathy]], [[Variceal Bleeding]]
+	- Systemic symptoms: [[Weight Loss]], [[Lethargy]], [[Malaise]]
+	- [(Bisceglie, 2002)]([[References/bisceglieEpidemiologyClinicalPresentation2002]])
+- ##
