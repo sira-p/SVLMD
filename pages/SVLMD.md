@@ -19,7 +19,3 @@ alias:: Sira's Very Large Medical Database
 - # [[Contribution]]
 - # [[Authors]]
 	- [[Sira Pornsiriprasert]]
-	-
-- ## Internal Pages
-	- [[Templates]]
-	- [[References]]
