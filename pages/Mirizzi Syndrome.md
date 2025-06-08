@@ -7,7 +7,7 @@ review-date::
 	- <1% incidence in developed countries.
 	- 4.7-5.7% in underdeveloped countries.
 - It involves **extrinsic compression** or erosion of the bile duct due to an **impacted gallstone** in the gallbladder neck or cystic duct.
-- The condition can evolve into **[[Cholecystocholedochal]]** or **[[Cholecystoenteric Fistulas]]**[(Beltran, Sep)]([[References/beltraMirizziSyndromeHistory2012]])
+- The condition can evolve into **[[Cholecystocholedochal]]** or **[[Cholecystoenteric Fistulas]]** [(Beltran, 2012)]([[References/beltraMirizziSyndromeHistory2012]]).
 - ## 👨‍⚕️ Pablo Luis Mirizzi
 - Argentinian surgeon (1893–1964) who described the syndrome in 1940.
 - Known for pioneering **operative cholangiography** in 1931.

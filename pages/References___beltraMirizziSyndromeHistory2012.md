@@ -1,4 +1,4 @@
-alias:: Beltran (Sep) Mirizzi syndrome: History, current knowledge and proposal of a simplified classification
+alias:: Beltran (2012) Mirizzi syndrome: History, current knowledge and proposal of a simplified classification
 type:: article
 icon:: 📚
 

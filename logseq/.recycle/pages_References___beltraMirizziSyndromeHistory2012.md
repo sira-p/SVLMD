@@ -1,8 +1,7 @@
-fun:: block
+alias:: Beltran (Sep) Mirizzi syndrome: History, current knowledge and proposal of a simplified classification
+type:: article
+icon:: 📚
 
-- alias:: Beltr&aacute (Sep) Mirizzi syndrome: History, current knowledge and proposal of a simplified classification
-  type:: article
-  icon:: 📚
 - accessDate:: 
   attachments:: 
   citeKey:: 

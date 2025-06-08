@@ -9,7 +9,10 @@ SVLMD uses [Zotero](https://www.zotero.org/), [Better Bibtex](https://retorque.r
 // Simple year extraction
 if (Translator.BetterBibLaTeX) {
     if (zotero.date) {
-        tex.add({name: 'year', value: zotero.date.split(/[//\s]/)[0]})
+        const match = zotero.date.match(/\b\d{4}\b/)
+        if (match) {
+            tex.add({ name: 'year', value: match[0] })
+        }
     }
 }
 ```
