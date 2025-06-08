@@ -1,5 +1,6 @@
 alias:: LODCRAFTS
-author::
+parent:: [[Abdominal Pain]] 
+author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::
 
