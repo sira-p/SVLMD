@@ -1,7 +1,8 @@
-alias::
-author::
-reviewer::
-review-date::
-template:: page-metadata
-
--
+- Page Metadata
+  template:: page-metadata
+  template-including-parent:: false
+	- alias::
+	  parent::
+	- author::
+	  reviewer::
+	  review-date::

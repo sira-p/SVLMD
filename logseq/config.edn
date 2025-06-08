@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["gallstone" "common bile duct stone"]
+ :favorites ["Acute Cholangitis" "gallstone" "common bile duct stone"]
 
  ;; Set flashcards interval.
  ;; Expected value:

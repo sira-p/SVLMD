@@ -3,6 +3,8 @@
 	- [[Choledochal Cyst]]
 	- [[Intrahepatic Duct Stone]]
 	- [[Common Bile Duct Stone]]
+- ## Severe Biliary Tract Diseases
+	- [[Acute Cholangitis]]
 - ## Malignant Biliary Tract Diseases
 	- [[Cholangiocarcinoma]]
 	- [[Gallbladder Cancer]]
