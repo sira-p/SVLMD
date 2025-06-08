@@ -9,8 +9,10 @@ review-date::
 - ## Clinical Presentations
 	-
 - ## Types of [[CBDS]]
-	- ### Classification by origin
-		- Primary [[CBDS]]
-		- Secondary [[CBDS]]
-			-
+	- ### Classification by origin [(Liu, 2000)]([[References/liuPathogenesisPresentationCommon2000]])
+		- Primary [[CBDS]] (20%) - Originates from the bile ducts
+			- Associated with infection or bile stasis
+		- Secondary [[CBDS]] (80%) - [[GS]] migrated from the [[GB]]
+			- Often cholesterol or black pigmented stones
+	- ### Classification by composition
 	-
