@@ -1,6 +1,6 @@
-alias:: Yokoe (2018) Tokyo Guidelines 2018: Diagnostic criteria and severity grading of acute cholecystitis (with videos)
 type:: article
 icon:: 📚
+exclude-from-graph-view:: true
 
 - accessDate:: 
   attachments:: 

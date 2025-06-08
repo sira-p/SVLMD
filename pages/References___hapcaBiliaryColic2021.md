@@ -1,4 +1,3 @@
-alias:: Hapca (2021) Biliary colic
 type:: article
 icon:: 📚
 

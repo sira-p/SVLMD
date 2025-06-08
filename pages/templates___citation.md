@@ -1,6 +1,6 @@
-alias:: {author lastname} ({year}) {title}
 type:: {type}
 icon:: 📚
+exclude-from-graph-view:: true
 
 - accessDate:: {accessDate}
   attachments:: {attachments}

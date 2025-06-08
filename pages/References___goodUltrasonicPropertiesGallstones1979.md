@@ -7,7 +7,7 @@ exclude-from-graph-view:: true
   citeKey:: 
   collections:: 
   author:: 
-  date:: 2012-09-14
+  date:: 1979-08-01
   dateAdded:: 
   dateModified:: 
   DOI:: 
@@ -16,19 +16,19 @@ exclude-from-graph-view:: true
   issue:: 
   itemType:: 
   journalAbbreviation:: 
-  key:: beltraMirizziSyndromeHistory2012
+  key:: goodUltrasonicPropertiesGallstones1979
   language:: 
   libraryCatalog:: 
   libraryLink:: 
-  pages:: 4639–4650
+  pages:: 258–263
   parentItem:: 
   publicationTitle:: 
   relations:: 
   shortTitle:: 
   tags:: 
-  itemTitle:: Mirizzi syndrome: History, current knowledge and proposal of a simplified classification
-  url:: https://www.wjgnet.com/1007-9327/full/v18/i34/4639.htm
+  itemTitle:: Ultrasonic properties of gallstones: Effect of stone size and composition
+  url:: https://consensus.app/papers/ultrasonic-properties-of-gallstones-effect-of-stone-size-good-edell/f73756c95f5a5dada6f21790c1738bea/
   version:: 
-  volume:: 18
+  volume:: 77
 - Abstract
-	- Mirizzi syndrome: History, current knowledge and proposal of a simplified classification
+	-
