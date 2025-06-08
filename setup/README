@@ -6,13 +6,22 @@ SVLMD uses [Zotero](https://www.zotero.org/), [Better Bibtex](https://retorque.r
 
 1. Add postscript to Better Bibtex by going to Zotero > Edit > Settings > Better Bibtex
 ```
-// Simple year extraction
 if (Translator.BetterBibLaTeX) {
+    // Simple year extraction
     if (zotero.date) {
         const match = zotero.date.match(/\b\d{4}\b/)
         if (match) {
             tex.add({ name: 'year', value: match[0] })
         }
+    }
+
+    // Use editor as author if no author field exists
+    // Hack for Logseq citation manager
+    if (!tex.has.author) {
+        for (const creator of zotero.creators) {
+            if (creator.creatorType === 'editor') creator.creatorType = 'author'
+        }
+      tex.addCreators();
     }
 }
 ```

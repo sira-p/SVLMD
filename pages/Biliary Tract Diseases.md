@@ -1,11 +1,14 @@
-## Benign Biliary Tract Diseases
+## Gallstone Diseases
 	- [[Gallstone]]
-	- [[Choledochal Cyst]]
-	- [[Intrahepatic Duct Stone]]
+	  id:: 6845baa1-9eda-4dd1-836f-4b89735ec45d
 	- [[Common Bile Duct Stone]]
-- ## Severe Biliary Tract Diseases
+	- [[Intrahepatic Duct Stone]]
+- ## Infectious Diseases
 	- [[Acute Cholangitis]]
-- ## Malignant Biliary Tract Diseases
+	- [[Acute Cholecystitis]]
+- ## Congenital Diseases
+	- [[Choledochal Cyst]]
+- ## Malignancy
 	- [[Cholangiocarcinoma]]
 	- [[Gallbladder Cancer]]
 	- [[Periampullary Cancer]]

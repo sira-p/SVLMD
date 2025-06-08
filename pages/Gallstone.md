@@ -24,14 +24,17 @@ review-date::
 		- **Age, gender, and body mass index**: Older age and female sex are significant risk factors.
 		- **Impaired gallbladder motility** and excessive cholesterol secretion by the liver.
 		- **Other factors**: [[Non-alcoholic Fatty Liver Disease]] and rapid weight loss can also increase risk.
-- ## History
+	- **Mnemonic: "4 Fs"** - Fatty, Fertile, Female, Fourty
+- ## Clinical Presentation
 	- ### [[Asymptomatic Gallstone]]
 		- 1-2% develop symptoms or complications per year.
 		- Over a 20-year period, 2/3 remain asymptomatic.
-	- ### [[Symptomatic Gallstone]]
+	- ### [[Symptomatic Gallstone]] [(Brunicardi, 2021)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])
 		- **[[Biliary Colic]]**
 			- {{embed ((6843f8fb-ffa0-44cb-bda4-aaf864cf0518))}}
 			- If the symptoms are atypical for [[Biliary Colic]], rule out other causes, such as [[Peptic Ulcer Disease]], [[GERD]], ruptured [[AAA]], and cancers
+		- **[[N/V]]**
+		- [[Jaundice]] is less common.
 		- 10-20% develop symptoms or complications per year.
 - ## Investigation
 	- Ultrasound

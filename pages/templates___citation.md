@@ -2,30 +2,27 @@ type:: {type}
 icon:: 📚
 exclude-from-graph-view:: true
 
-- accessDate:: {accessDate}
-  attachments:: {attachments}
-  citeKey:: {citeKey}
+- accessDate:: {accessdate}
   collections:: {collections}
   author:: {creators}
   date:: {date}
-  dateAdded:: {dateAdded}
+  dateAdded:: {dateadded}
   dateModified:: {dateModified}
   DOI:: {DOI}
   ISBN:: {ISBN}
   ISSN:: {ISSN}
   issue:: {issue}
   itemType:: {itemType}
-  journalAbbreviation:: {journalAbbreviation}
+  journal:: {journaltitle}
   key:: {key}
-  language:: {language}
-  libraryCatalog:: {libraryCatalog}
-  libraryLink:: {libraryLink}
+  language:: {langid}
+  libraryCatalog:: {librarycatalog}
+  libraryLink:: {librarylink}
   pages:: {pages}
   parentItem:: {parentItem}
-  publicationTitle:: {publicationTitle}
+  publicationTitle:: {publicationtitle}
   relations:: {relations}
-  shortTitle:: {shortTitle}
-  tags:: {tags}
+  shortTitle:: {shorttitle}
   itemTitle:: {title}
   url:: {url}
   version:: {version}

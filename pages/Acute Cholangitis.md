@@ -8,7 +8,7 @@ parent:: [[Biliary Tract Diseases]]
 - The obstruction leads to stasis and subsequent infection, with increased intraductal pressure potentially causing [[bacteremia]] and [[Septic Shock]].
 - ## Pathophysiology
 	- Bile duct infection leads to [(An, 2021)]([[References/anAcuteCholangitisCauses2021]]):
-		- Bile duct **obstruction** -> [[Juandice]]
+		- Bile duct **obstruction** -> [[Jaundice]]
 		  background-color:: green
 		- Bile duct **inflammation** -> [[RUQ Pain]] without [[Murphy Sign]]
 		  background-color:: green
