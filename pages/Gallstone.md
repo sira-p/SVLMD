@@ -24,6 +24,7 @@ review-date::
 		- **Age, gender, and body mass index**: Older age and female sex are significant risk factors.
 		- **Impaired gallbladder motility** and excessive cholesterol secretion by the liver.
 		- **Other factors**: [[Non-alcoholic Fatty Liver Disease]] and rapid weight loss can also increase risk.
+	- **Mnemonic: "4 Fs"** - Fatty, Fertile, Female, Fourty
 - ## History
 	- ### [[Asymptomatic Gallstone]]
 		- 1-2% develop symptoms or complications per year.
