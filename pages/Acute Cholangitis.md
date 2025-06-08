@@ -9,5 +9,11 @@ parent:: [[Biliary Tract Diseases]]
 - ## Pathophysiology
 	- Bile duct infection leads to:
 		- Bile duct **obstruction** -> [[Juandice]]
+		  background-color:: green
 		- Bile duct **inflammation** -> [[RUQ Pain]] without [[Murphy Sign]]
+		  background-color:: green
 		- **[[Bacteremia]]** -> [[Fever with Chills]]
+		  background-color:: green
+		- **[[Septic Shock]]** -> [[Hypotension]], [[Alteration of Consciousness]]
+		- The three symptoms highlighted in green are called the **[[Charcot Triad]]**.
+		- All of the symptoms above combined are called the **[[Reynold Pentad]]**.
