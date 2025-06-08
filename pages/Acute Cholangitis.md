@@ -17,8 +17,11 @@ parent:: [[Biliary Tract Diseases]]
 		- **[[Septic Shock]]** -> [[Hypotension]], [[Alteration of Consciousness]]
 		- The three symptoms highlighted in green are called the **[[Charcot Triad]]**.
 		- All of the symptoms above combined are called the **[[Reynold Pentad]]**.
+- ## Diagnosis
+	- The [[Tokyo Guidelines]] 2018 is used for [[Acute Cholangitis]] diagnosis.
+	-
 - ## Management
 	- The management of [[acute cholangitis]] can be divided into two parts:
 		- **Treating the obstruction** - [[CBDS]] removal + Biliary drainage
-			-
+			- {{embed ((68450bc5-50ef-402c-adca-83b70dcbd76d))}}
 		- **Treating the infection** - [[ATB]] therapy (mostly [[Gram-negative Bacteria]] )
