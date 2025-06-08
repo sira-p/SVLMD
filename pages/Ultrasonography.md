@@ -1,1 +1,1 @@
-alias:: US, ultrasound
+alias:: US, Ultrasound

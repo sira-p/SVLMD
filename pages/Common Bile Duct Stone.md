@@ -37,4 +37,8 @@ review-date::
 		- **[[CCA]]**: Progressive, painless jaundice
 			- Painless due to bile duct adaptation
 - ## Investigation
-	- ### [[ultrasound]]
+	- ### [[Ultrasound]]
+		- Initial investigation in suspected disease of the biliary tree
+		- Limited capability for [[CBDS]] detection
+	- ### [[Computed Tomography]]
+		-
