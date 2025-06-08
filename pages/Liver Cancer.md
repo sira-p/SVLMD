@@ -1,1 +1,2 @@
 parent:: [[Gastrointestinal Cancer]]
+alias::
