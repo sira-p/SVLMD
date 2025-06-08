@@ -18,9 +18,11 @@ review-date::
 - **Labs:** Elevated [[Bilirubin]], [[Liver Enzymes]], [[CA19-9]] (can mimic malignancy).
 - **Risk:** Often misdiagnosed as gallbladder or biliary tract cancer.
 -
-- ## Image Findings
+- ## Investigation
 	- ### [[Ultrasonography]]
-		-
+		- Impacted [[GS]] at [[Cystic Duct]]
+		- Dilated [[IHD]]
+-
 - ## Diagnosis
   
   | Modality | Role |
