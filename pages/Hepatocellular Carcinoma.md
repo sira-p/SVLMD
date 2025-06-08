@@ -33,6 +33,9 @@ parent:: [[Liver Cancer]]
 			- **Peritoneal seeding**
 			- **[[Mortality]]**
 - ## Diagnosis
-	- The investigation and diagnosis of hepatocellular carcinoma (HCC) rely on a combination of surveillance, imaging, and laboratory tests, with a focus on early detection in high-risk individuals[(Yang, 2020)]([[References/yangNewAdvancesDiagnosis2020]])
+	- The investigation and diagnosis of [[Hepatocellular Carcinoma]] (HCC) rely on a combination of surveillance, imaging, and laboratory tests, with a focus on early detection in high-risk individuals [(Yang, 2020)]([[References/yangNewAdvancesDiagnosis2020]]).
 	- ### Surveillance and Initial Assessment
-	-
+		- **Target Population:** Patients with [[Cirrhosis]] or chronic hepatitis B are recommended to undergo regular surveillance due to their high risk for [[HCC]] .
+		- **Surveillance Tools:** Biannual liver [[Ultrasonography]] is the standard method, often combined with serum [[AFP]] testing, though AFP alone is not sufficiently sensitive or specific.
+	- ### Diagnostic Imaging
+		- **First-line:** multiphasic [[Contrast-enhaced Computed Tomography]] or [[Magnetic Resonance Imaging]] (MRI) is performed
