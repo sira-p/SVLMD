@@ -31,7 +31,6 @@ review-date::
 		- Over a 20-year period, 2/3 remain asymptomatic.
 	- ### [[Symptomatic Gallstone]]
 		- **[[Biliary Colic]]**
-		  collapsed:: true
 			- {{embed ((6843f8fb-ffa0-44cb-bda4-aaf864cf0518))}}
 			- If the symptoms are atypical for [[Biliary Colic]], rule out other causes, such as [[Peptic Ulcer Disease]], [[GERD]], ruptured [[AAA]], and cancers
 		- **[[N/V]]**
