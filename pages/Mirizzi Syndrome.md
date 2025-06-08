@@ -1,4 +1,5 @@
 alias:: [[Mirizzi's Syndrome]]
+parent:: [[Gallstone]] 
 author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::

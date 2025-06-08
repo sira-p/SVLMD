@@ -1,4 +1,5 @@
 alias:: AC
+parent:: [[Gallstone]], [[Cholecystitis]]
 author:: [[Sira Pornsiriprasert]] 
 Reviewer::
 review-date::
