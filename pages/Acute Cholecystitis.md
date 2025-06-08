@@ -4,6 +4,8 @@ author:: [[Sira Pornsiriprasert]]
 Reviewer::
 review-date::
 
+- **Acute cholecystitis** (AC) is an [[Inflammation]] of the [[Gallbladder]], most commonly caused by [[Gallstones]] blocking the [[Cystic Duct]].
+-
 - ## Pathophysiology
 	- ### [[Acute Calculous Cholecystitis]]
 	- {{embed ((6843fb92-e840-4942-b933-10bbdee8c89e))}}
