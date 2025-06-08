@@ -39,4 +39,7 @@ review-date::
 		- Initial investigation in suspected disease of the biliary tree
 		- Limited capability for [[CBDS]] detection
 	- ### [[Computed Tomography]]
-		-
+		- Better evaluation of [[CBD]] than [[ultrasound]].
+		- Can miss non-opaque [[CBDS]] and [[GS]].
+		- Good for evaluating biliary tract malignancy.
+	-
