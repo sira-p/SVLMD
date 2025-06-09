@@ -9,7 +9,7 @@ script='<script>
   document.title = document.title + " | SVLMD";
 </script>'
 
-file="index.html"
+file="www/index.html"
 
 injection="$meta
 $script"
