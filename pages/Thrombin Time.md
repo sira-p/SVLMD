@@ -1,4 +1,4 @@
-alias:: PT
+alias:: TT
 parent:: [[Coagulogram]]
 
 - author::
