@@ -11,7 +11,8 @@ parent:: [[Laboratory Test]]
 	- [[GGT]] < 30
 	- [[Bilirubin]]
 		- [[Tbil]] < 1.0
-		-
+		- [[Dbil]] < 0.3
+	- [[Alb]] 3.5-5
 - ## [[R-Ratio]]
   id:: 6846816b-c368-477a-a91c-876307a13df8
 	- Online calculator: https://www.mdcalc.com/calc/4064/r-factor-liver-injury
