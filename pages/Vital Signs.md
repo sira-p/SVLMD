@@ -1,3 +1,4 @@
+icon:: 📈
 alias:: V/S
 parent::
 
