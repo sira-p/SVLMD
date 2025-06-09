@@ -47,7 +47,7 @@ jobs:
       - name: Inject HTMLs
         run: chmod +x ./.github/scripts/inject_html.sh && ./.github/scripts/inject_html.sh
       - name: Add social preview
-        run: cp -f $GITHUB_WORKSPACE/assets/banner.png $GITHUB_WORKSPACE/build/assets/banner.png
+        run: cp -f $GITHUB_WORKSPACE/assets/social-preview.png $GITHUB_WORKSPACE/build/assets/social-preview.png
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
