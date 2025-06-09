@@ -1,6 +1,8 @@
-#### Bacteria
-template:: bacteria
-template-including-parent:: false
+exclude-from-graph-view:: true
+
+- #### Bacteria
+  template:: bacteria
+  template-including-parent:: false
 	- alias::
 	  author::
 	  reviewer::
