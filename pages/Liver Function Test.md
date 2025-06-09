@@ -1,3 +1,4 @@
+icon:: 🧪
 alias:: LFT
 parent:: [[Laboratory Test]]
 
@@ -22,3 +23,5 @@ parent:: [[Laboratory Test]]
 		- **R > 5:** Hepatocellular pattern (liver cell injury)
 		- **R < 2**: Cholestatic pattern (bile flow obstruction)
 		- **R = 2-5:** Mixed pattern
+- ## See Also
+	- [[Coagulogram]]
