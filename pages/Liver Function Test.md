@@ -7,4 +7,5 @@ parent:: [[Laboratory Test]]
 - ## Normal Values [(Professional Laboratory Management Corp. Co., 2019)]([[References/zotero-item-774]])
 	-
 - ## [[R-Ratio]]
+	- $$\frac{AST_pt}{b}$$
 	-
