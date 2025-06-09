@@ -13,7 +13,7 @@ description_escaped=$(echo "$description" | sed 's/&/\&amp;/g; s/"/\&quot;/g')
 sed -i "s/<meta property=\"og:title\"[^>]*>/<meta property=\"og:title\" content=\"$title_escaped\">/" "$file"
 sed -i "s/<meta property=\"og:description\"[^>]*>/<meta property=\"og:description\" content=\"$description_escaped\">/" "$file"
 sed -i "s/<meta name=\"description\"[^>]*>/<meta name=\"description\" content=\"$description_escaped\">/" "$file"
-sed -i "s|<meta property=\"og:image\"[^>]*>|<meta property=\"og:image\" content=\"$image\">|" "$file"
+sed -i "s/<meta content=\"[^\"]*\" property=\"og:image\">/<meta content=\"$image\" property=\"og:image\">/" "$file"
 echo "Inject HTML: Replaced meta."
 
 script='<script>
