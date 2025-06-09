@@ -37,6 +37,14 @@ jobs:
       - name: Inject HTMLs
         run: chmod +x ./.github/scripts/inject_html.sh && ./.github/scripts/inject_html.sh
 
+      - name: Cache built output
+        uses: actions/cache@v4
+        with:
+            path: www
+            key: ${{ runner.os }}-spa-build-${{ hashFiles('**/*.md') }}
+            restore-keys: |
+                ${{ runner.os }}-spa-build-
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
