@@ -5,7 +5,13 @@ parent:: [[Laboratory Test]]
   reviewer::
   review-date::
 - ## Normal Values (Adapted from [Professional Laboratory Management Corp. Co., 2019]([[References/zotero-item-774]]))
-	-
+	- [[AST]] < 40
+	- [[ALT]] male < 41, female < 33
+	- [[ALP]] < 130
+	- [[GGT]] < 30
+	- [[Bilirubin]]
+		- [[Tbil]] < 1.0
+		-
 - ## [[R-Ratio]]
   id:: 6846816b-c368-477a-a91c-876307a13df8
 	- Online calculator: https://www.mdcalc.com/calc/4064/r-factor-liver-injury
