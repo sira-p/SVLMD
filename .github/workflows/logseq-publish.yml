@@ -27,7 +27,7 @@ jobs:
       - name: Cache built output
         uses: actions/cache@v4
         with:
-            path: www
+            path: build
             key: ${{ runner.os }}-spa-build-${{ hashFiles('**/*.md') }}
             restore-keys: |
                 ${{ runner.os }}-spa-build-
@@ -40,9 +40,9 @@ jobs:
           accent-color: green
 
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
-        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+        run: touch $GITHUB_WORKSPACE/build/.nojekyll
       - name: Inject Logo
-        run: cp -f $GITHUB_WORKSPACE/assets/logo.png $GITHUB_WORKSPACE/www/static/img/logo.png
+        run: cp -f $GITHUB_WORKSPACE/assets/logo.png $GITHUB_WORKSPACE/build/static/img/logo.png
       - name: Inject HTMLs
         run: chmod +x ./.github/scripts/inject_html.sh && ./.github/scripts/inject_html.sh
 
@@ -50,6 +50,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: build
-          folder: www
+          folder: build
           clean: true
           single-commit: true
