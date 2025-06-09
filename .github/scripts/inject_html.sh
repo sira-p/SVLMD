@@ -14,13 +14,15 @@ sed -i "s/<meta property=\"og:title\"[^>]*>/<meta property=\"og:title\" content=
 sed -i "s/<meta property=\"og:description\"[^>]*>/<meta property=\"og:description\" content=\"$description_escaped\">/" "$file"
 sed -i "s/<meta name=\"description\"[^>]*>/<meta name=\"description\" content=\"$description_escaped\">/" "$file"
 sed -i "s|<meta property=\"og:image\"[^>]*>|<meta property=\"og:image\" content=\"$image\">|" "$file"
+echo "Inject HTML: Replaced meta."
 
 script='<script>
   document.title = document.title + " | SVLMD";
 </script>'
 
 # Escape for sed insertion
-escaped=$(echo "$script" | sed 's/[&/\]/\\&/g' | sed ':a;N;$!ba;s/\n/\\n/g')
+escaped=$(echo "$script" | sed 's/[&\\]/\\&/g; s/\//\\\//g' | sed ':a;N;$!ba;s/\n/\\n/g')
 
 # Inject before </head>
-sed -i "s|</head>|$escaped\n</head>|" "$file"
+sed -i "s#</head>#$escaped\n</head>#" "$file"
+echo "Inject HTML: Injected title replacing script."
