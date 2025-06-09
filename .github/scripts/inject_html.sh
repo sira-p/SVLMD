@@ -1,6 +1,6 @@
 #!/bin/sh
 
-file="index.html"
+file="build/index.html"
 
 # Delete matching meta tags
 sed -i '/<meta[^>]*property=["'\'']og:title["'\'']/d' "$file"
