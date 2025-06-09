@@ -23,6 +23,14 @@ jobs:
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-yarn-
+            
+      - name: Cache built output
+        uses: actions/cache@v4
+        with:
+            path: www
+            key: ${{ runner.os }}-spa-build-${{ hashFiles('**/*.md') }}
+            restore-keys: |
+                ${{ runner.os }}-spa-build-
 
       - name: Build graph's SPA
         uses: logseq/publish-spa@v0.3.0
@@ -33,17 +41,10 @@ jobs:
 
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
-        
+      - name: Inject Logo
+        run: cp -f $GITHUB_WORKSPACE/assets/logo.png $GITHUB_WORKSPACE/www/static/img/logo.png
       - name: Inject HTMLs
         run: chmod +x ./.github/scripts/inject_html.sh && ./.github/scripts/inject_html.sh
-
-      - name: Cache built output
-        uses: actions/cache@v4
-        with:
-            path: www
-            key: ${{ runner.os }}-spa-build-${{ hashFiles('**/*.md') }}
-            restore-keys: |
-                ${{ runner.os }}-spa-build-
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
