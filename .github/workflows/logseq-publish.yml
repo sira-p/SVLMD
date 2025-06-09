@@ -38,6 +38,7 @@ jobs:
           graph-directory: .
           theme-mode: light
           accent-color: green
+          output-directory: build
 
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/build/.nojekyll
