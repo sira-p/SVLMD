@@ -6,6 +6,7 @@ parent:: [[Laboratory Test]]
   reviewer::
   review-date::
 - ## Normal Values (Adapted from [Professional Laboratory Management Corp. Co., 2019]([[References/zotero-item-774]]))
+  id:: 6846816b-5a54-46f4-a48c-907843806e14
 	- [[AST]] < 40
 	- [[ALT]] male < 41, female < 33
 	- [[ALP]] < 130
@@ -22,6 +23,6 @@ parent:: [[Laboratory Test]]
 	- ### Interpretation
 		- **R > 5:** Hepatocellular pattern (liver cell injury)
 		- **R < 2**: Cholestatic pattern (bile flow obstruction)
-		- **R = 2-5:** Mixed pattern
+		- **R 2-5:** Mixed pattern
 - ## See Also
 	- [[Coagulogram]]
