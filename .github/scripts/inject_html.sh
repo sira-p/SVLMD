@@ -9,7 +9,7 @@ script='<script>
   document.title = document.title + " | SVLMD";
 </script>'
 
-file="$GITHUB_WORKSPACE/build/index.html"
+file="./build/index.html"
 
 injection="$meta
 $script"
