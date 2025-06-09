@@ -4,7 +4,7 @@ file="build/index.html"
 
 title="Sira's Very Large Medical Database (SVLMD)"
 description="Sira's Very Large Medical Database (SVLMD) is a community-maintained, expert-reviewed, non-hierarchical medical education database. The information prioritizes demographics, geography, and socioeconomy in the context of Thailand."
-image="assets/banner.png"
+image="assets/social-preview.png"
 
 # Escape HTML characters
 title_escaped=$(echo "$title" | sed 's/&/\&amp;/g; s/"/\&quot;/g')
