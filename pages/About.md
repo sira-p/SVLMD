@@ -1,3 +1,4 @@
+icon:: ℹ️
 exclude-from-graph-view:: true
 
 - ## What's SVLMD
