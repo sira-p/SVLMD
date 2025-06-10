@@ -1,21 +1,21 @@
 icon:: 🩺
 alias:: Sira's Very Large Medical Database
 
--
-- # [[Medicine]]
-- # [[Surgery]]
-- # [[Pediatrics]]
-- # [[Orthopedics]]
-- # [[Ophthalmology]]
-- # [[Anesthesiology]]
--
-- # [[Anatomy]]
-- # [[Physiology]]
-- # [[Microbiology]]
-- # [[Immunology]]
-- # [[Pharmacology]]
--
-- # [[About]]
-- # [[Contribution]]
-- # [[Authors]]
-	- [[Sira Pornsiriprasert]]
+- # Clinical Disciplines
+	- # [[Medicine]]
+	- # [[Surgery]]
+	- # [[Pediatrics]]
+	- # [[Orthopedics]]
+	- # [[Ophthalmology]]
+	- # [[Anesthesiology]]
+- # Basic Medical Science
+	- # [[Anatomy]]
+	- # [[Physiology]]
+	- # [[Microbiology]]
+	- # [[Immunology]]
+	- # [[Pharmacology]]
+- # Project Information
+	- # [[About]]
+	- # [[Contribution]]
+	- # [[Authors]]
+		- [[Sira Pornsiriprasert]]

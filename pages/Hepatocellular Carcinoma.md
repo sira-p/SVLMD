@@ -1,3 +1,4 @@
+icon:: CA
 alias:: HCC
 parent:: [[Liver Cancer]]
 
@@ -35,12 +36,12 @@ parent:: [[Liver Cancer]]
 - ## Diagnosis
 	- The investigation and diagnosis of [[Hepatocellular Carcinoma]] (HCC) rely on a combination of surveillance, imaging, and laboratory tests, with a focus on early detection in high-risk individuals [(Yang, 2020)]([[References/yangNewAdvancesDiagnosis2020]]).
 	- ### Surveillance and Initial Assessment
-		- **Target Population:** Patients with [[Cirrhosis]] or chronic hepatitis B are recommended to undergo regular surveillance due to their high risk for [[HCC]] .
+		- **Target Population:** Patients with [[Cirrhosis]] or chronic hepatitis B are recommended to undergo regular surveillance due to their high risk for [[HCC]].
 		- **Surveillance Tools:** Biannual liver [[Ultrasonography]] is the standard method, often combined with serum [[AFP]] testing, though AFP alone is not sufficiently sensitive or specific.
 	- ### Diagnostic Imaging
 		- **First-line:** Multiphasic [[Contrast CT]], [[Magnetic Resonance Imaging]] (MRI)
-		- **Characteristics:** arterial phase hyperenhancement and portal venous or delayed phase washout.
-			- [[HCC]] can be diagnosed non-invasively.
+		- **Characteristics:** arterial phase hyperenhancement, rapid washout in portal venous, or delayed phase washout.
+			- [[HCC]] can be diagnosed without biopsy unless atypical.
 	- ### Histopathology
 		- **[[Liver Biopsy]]:** Reserved for cases where imaging is inconclusive or atypical.
 - ## Management

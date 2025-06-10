@@ -1,7 +1,8 @@
 - Page Metadata
   template:: page-metadata
   template-including-parent:: false
-	- alias::
+	- icon::
+	  alias::
 	  parent::
 	- author::
 	  reviewer::
