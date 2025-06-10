@@ -22,9 +22,9 @@ tags:: [[Anatomy]]
 - # Openings
 	- | **Opening**            | **Location**                          | **Passing Structures**               |
 	  |--------------------|-----------------------------------|----------------------------------|
-	  | [[Optic Canal]]        | Apex of the [[Orbit]]         | **[[Optic Nerve]]**, **[[Ophthalmic Artery]]**   |
-	  | [[Superior Orbital Fissure]] | Lateral to [[Optic Canal]]  | -                              |
-	  | [[Inferior Orbital Fissure]] | Junction of lateral wall & floor | -                              |
-	  | [[Nasolacrimal Canal]] | Lower anterior medial [[Orbital Wall]] | [[Nasolacrimal Duct]]               |
+	  | **[[Optic Canal]]**        | Apex of the [[Orbit]]         | **[[Optic Nerve]]**, **[[Ophthalmic Artery]]**   |
+	  | **[[Superior Orbital Fissure]]** | Lateral to [[Optic Canal]]  | • **[[Oculomotor Nerve]]:** superior and inferior divisions <br />• **[[Trochlear Nerve]]** <br />• **[[Ophthalmic Nerve]]:** [[Lacrimal Nerve]], [[Frontal Nerve]], [[Nasociliary Nerve]] <br />• **[[Abducens Nerve]]**<br />• [[Ophthalmic Vein]] |
+	  | **[[Inferior Orbital Fissure]]** | Junction of lateral wall & floor | **[[Infraorbital Canal]]**, [[Maxillary Nerve]], [[Zygomatic Nerve]], vessels |
+	  | **[[Nasolacrimal Canal]]** | Lower anteromedial [[Orbital Wall]] | **[[Nasolacrimal Duct]]**               |
 	-
 	-
