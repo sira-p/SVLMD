@@ -1,4 +1,6 @@
-## [[Cardiovascular Diseases]]
+alias:: [[Disease]]
+
+- ## [[Cardiovascular Diseases]]
 - ## [[Gastrointestinal Diseases]]
 - ## [[Respiratory Diseases]]
 - ## [[Neurological Diseases]]

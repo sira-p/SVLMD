@@ -4,8 +4,9 @@ parent:: [[Liver Cancer]]
 author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::
+tags:: [[Disease]], [[Cancer]]
 
-- **Hepatocellular carcinoma** (HCC) is the most common primary [[Liver Cancer]] and the fifth most common malignancy worldwide [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]]).
+- **Hepatocellular carcinoma** (HCC) is the most common primary [[Liver Cancer]] and the fifth most common [[Malignancy]] worldwide [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]]).
 - Its clinical presentation is highly variable. Patients may be asymptomatic, especially in early stages, or present with a range of symptoms related to liver dysfunction or tumor growth.
 - Early detection is increasing due to improved screening and imaging.
 - ## Risk Factors in Thailand [(Chitapanarux, 2015)]([[References/chitapanaruxRiskFactorsDevelopment2015]])
