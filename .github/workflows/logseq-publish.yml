@@ -39,29 +39,12 @@ jobs:
           # Update Version.md Logseq page
           uuid=$(uuidgen)
           if [ ! -f pages/Version.md ]; then
-            # Create initial Version.md if it doesn't exist
-            cat > pages/Version.md << EOL
-icon:: 🏷️
-exclude-from-graph-view:: true
-
-- ## $new_version
-  id:: $uuid
-- Auto-generated. Do not modify manually.
-- Format: X.Y.Z-yy-mm-dd-nn
-	- X: Major version
-		- Major restructure, new database implementation
-	- Y: Minor version
-		- Minor restructure, new topics
-	- Z: Patch version
-		- New subtopics, bug fixes, formatting
-	- yy-mm-dd: Year-month-date released
-	- nn: Version counter
-EOL
-          else
-            # Update only the version line and its UUID
-            sed -i -E "s/^- ## .*$$/- ## $new_version/" pages/Version.md
-            sed -i -E "s/^  id:: .*$/  id:: $uuid/" pages/Version.md
+            echo "Build failed: pages/Version.md not found. This file is required for versioning."
+            exit 1
           fi
+          # Update only the version line and its UUID
+          sed -i -E "s/^- ## .*$$/- ## $new_version/" pages/Version.md
+          sed -i -E "s/^  id:: .*$/  id:: $uuid/" pages/Version.md
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
