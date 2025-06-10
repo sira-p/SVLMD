@@ -8,7 +8,5 @@ exclude-from-graph-view:: true
 - # [[LICENSE]]
 	- **[[SVLMD]]** is licensed under **CC BY-NC 4.0** ([Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)). All contributors agree to publish under this license.
 - # [[Version]]
-	- {{query (property :tags "version")}}
-	  query-properties:: [:page]
 - # [[Changelog]]
 - # [[TODO]]
