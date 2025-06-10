@@ -3,7 +3,7 @@ author:: [[Sira Pornsiriprasert]]
 Reviewer::
 review-date::
 
-- ## Pathophysiology
+- # Pathophysiology
   id:: 6843fb92-e840-4942-b933-10bbdee8c89e
 	- According to [(Gallaher, 2022)]([[References/gallaherAcuteCholecystitisReview2022]]),
 	  id:: 68446740-93eb-4aa7-b49b-a1a4a8488663
@@ -29,4 +29,3 @@ review-date::
 		  intraluminal pus and gross infection.
 	- After the acute phase, intraluminal pus is replaced with granulation tissue and eventually progresses to [[Chronic Cholecystitis]].
 	  id:: 68446561-efc0-4e84-8fce-e44998079005
--

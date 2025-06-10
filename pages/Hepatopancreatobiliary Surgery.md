@@ -1,5 +1,4 @@
 alias:: HPB Surgery,
 
-- ## Diseases
+- # Diseases
 	- [[Biliary Tract Diseases]]
-	- [[Hepatocellular Carcinoma]]

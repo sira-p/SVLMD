@@ -1,6 +1,6 @@
 exclude-from-graph-view:: true
 
-- #### Bacteria
+- ### Bacteria
   template:: bacteria
   template-including-parent:: false
 	- icon:: 🦠
@@ -12,4 +12,3 @@ exclude-from-graph-view:: true
 	  morphology::
 	  lab::
 	  oxygen-environment::
-	  tags:: [[Bacteria]], [[Microbe]]

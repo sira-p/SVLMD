@@ -15,7 +15,7 @@ review-date::
 - **T**ime: frequency, progression, cyclic, non-cyclic
 - **S**everity
 -
-- ## [[LODCRAFT]]
+- # [[LODCRAFT]]
   template:: LODCRAFT
   template-including-parent:: false
 	- Location:
@@ -27,4 +27,3 @@ review-date::
 	- Aggravating factors:
 	- Relieving factors:
 	- Time:
-	- Severity:

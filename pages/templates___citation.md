@@ -9,9 +9,9 @@ tags:: Reference
 	  date: {date}
 	  accessed: {accessdate}
 	  url: {url}
-- ## Abstract
+- # Abstract
 	- {abstract}
-- ## Metadata
+- # Metadata
 	- key: {key}
 	  DOI: {DOI}
 	  ISBN: {ISBN}
@@ -20,4 +20,3 @@ tags:: Reference
 	  language {langid}
 	  pages: {pages}
 	  version: {version}
-	  volume: {volume}

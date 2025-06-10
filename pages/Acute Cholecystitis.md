@@ -6,38 +6,38 @@ Reviewer::
 review-date::
 
 - **Acute cholecystitis** (AC) is an [[Inflammation]] of the [[Gallbladder]], most commonly caused by [[Gallstones]] blocking the [[Cystic Duct]].
-- ## Pathophysiology
-	- ### [[Acute Calculous Cholecystitis]]
+- # Pathophysiology
+	- ## [[Acute Calculous Cholecystitis]]
 	- {{embed ((6843fb92-e840-4942-b933-10bbdee8c89e))}}
-	- ## [[Acute Acalculous Cholecystitis]]
+	- # [[Acute Acalculous Cholecystitis]]
 	  collapsed:: true
 		- {{embed ((684464f7-0f97-469f-a4a4-8db1d3504cb2))}}
-- ## Clinical Presentation
+- # Clinical Presentation
 	-
-- ## Diagnosis
+- # Diagnosis
   id:: 68450222-c8ca-48ed-a3fa-19aca4430ad3
 	- [[Acute Cholecystitis]] is diagnosed using the **[[Tokyo Guidelines 2018]]** [(Gallaher, 2022)]([[References/gallaherAcuteCholecystitisReview2022]]).
-	- ### Criteria
+	- ## Criteria
 		- **Suspected**: 1 local sign + 1 systemic sign
 		- **Definite**: 1 local sign + 1 systemic sign + 1 image finding
-	- ### Local Signs of Inflammation
+	- ## Local Signs of Inflammation
 		- [[Murphy Sign]] positive
 		- [[RUQ]] mass, pain, or tenderness
-	- ### Systemic Signs of Inflammation
+	- ## Systemic Signs of Inflammation
 		- [[Fever]]
 		- Elevated [[CRP]]
 		- Elevated [[WBC]] (WBC > 10,000) or depressed WBC (WBC < 4,000)
-	- ### Imaging Findings Characteristic of Acute Cholecystitis
+	- ## Imaging Findings Characteristic of Acute Cholecystitis
 		- According to [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]), the accepted imaging findings of acute cholecystitis are:
 			- **Thickening** of the gallbladder wall (≥4 mm)
 			- **Enlargement** of the gallbladder (long axis ≥8 cm, short axis ≥4 cm)
 			- **Gallstones** or retained debris
 			- **Fluid accumulation** around the gallbladder
 			- **Linear shadows** in the fatty tissue around the gallbladder
-- ## Grading
+- # Grading
   id:: 68450222-1a6f-4817-a98e-2b4d1a4b4952
 	- Grading of acute cholecystitis follows the **[[Tokyo Guidelines]] 2018** [(Yokoe, 2018)]([[References/yokoeTokyoGuidelines20182018]]).
-	- ### Grade III: Severe
+	- ## Grade III: Severe
 	  id:: 68450222-656b-4a91-a8b6-a4909f1819ae
 		- Any one of the following:
 		  id:: 68450222-3b9c-4e9a-b9a4-a92e1ac79612
@@ -53,7 +53,7 @@ review-date::
 			  logseq.order-list-type:: number
 			- **Hematological dysfunction**: [[Platelet]] count <100,000/mm3
 			  logseq.order-list-type:: number
-	- ### Grade II: Moderate
+	- ## Grade II: Moderate
 	  id:: 68450222-f784-4197-a93c-be9c065647f1
 		- Any one of the following:
 		  id:: 68450222-89f9-46a4-8b48-2c5c39a74d09
@@ -65,11 +65,11 @@ review-date::
 			  logseq.order-list-type:: number
 			- Marked local inflammation (gangrenous cholecystitis, pericholecystic abscess, hepatic abscess, biliary peritonitis, emphysematous cholecystitis)
 			  logseq.order-list-type:: number
-	- ### Grade I: Mild
+	- ## Grade I: Mild
 	  id:: 68450222-bd61-4473-b9ca-2e778bea6dcd
 		- Acute cholecystitis that does not meet the Grade III or Grade II criteria or acute cholecystitis in a healthy patient with no organ dysfunction and mild inflammatory changes in the gallbladder, making cholecystectomy a safe and low-risk operative procedure.
 		  id:: 68450222-e20d-474e-8cff-00b5763147bc
-- ## Management
+- # Management
   id:: 68450222-53b4-4f94-999e-c2162d13b02b
-	- ### Grade III: [[ATB]] + [[Cholecystostomy]]
-	- ### Grade II: [[ATB]] + Urgent [[Cholecystectomy]]
+	- ## Grade III: [[ATB]] + [[Cholecystostomy]]
+	- ## Grade II: [[ATB]] + Urgent [[Cholecystectomy]]

@@ -1,5 +1,4 @@
 parent:: [[Diseases]]
 
-- ## [[Biliary Tract Diseases]]
-- ## [[Gastrointestinal Cancer]]
--
+- # [[Biliary Tract Diseases]]
+- # [[Gastrointestinal Cancer]]

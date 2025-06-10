@@ -5,6 +5,7 @@ author::
 reviewer::
 review-date::
 
-- ## [[Bacteria]]
-- ## [[Virus]]
-- ## [[Fungi]]
+- # [[Bacteria]]
+- # [[Virus]]
+- # [[Fungi]]
+- # [[Parasite]]

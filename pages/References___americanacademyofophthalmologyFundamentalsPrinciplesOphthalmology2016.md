@@ -10,10 +10,10 @@ excludefromgraphview:: true
 	  date: 2016
 	  accessed: 
 	  url:
-- ## Abstract
+- # Abstract
   heading:: 2
 	-
-- ## Metadata
+- # Metadata
   heading:: 2
 	- key: americanacademyofophthalmologyFundamentalsPrinciplesOphthalmology2016
 	  DOI: 
@@ -23,4 +23,3 @@ excludefromgraphview:: true
 	  language english
 	  pages: 
 	  version: 
-	  volume:
