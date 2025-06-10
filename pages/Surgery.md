@@ -1,4 +1,10 @@
 icon:: 🔪
+alias:: Sx
+parent::
+author::
+reviewer::
+review-date::
+tags::
 
 - # Major
 	- ## [[Cardiothoracic Surgery]]
