@@ -17,7 +17,7 @@ tags:: Reference
 	  ISBN: {ISBN}
 	  ISSN: {ISSN}
 	  issue: {issue}
-	  language {langid}
+	  language: {langid}
 	  pages: {pages}
 	  version: {version}
 	  volume: {volume}
