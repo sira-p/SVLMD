@@ -1,3 +1,4 @@
+icon:: 🟡
 alias::
 parent:: [[Biliary Tract Diseases]]
 author:: [[Sira Pornsiriprasert]] 
@@ -33,7 +34,7 @@ tags:: [[Disease]]
 		- **[[Jaundice]]**: [[Total Bilirubin]] ≥ 2.
 		- Abnormal **[[Liver Function Test]]**: Elevated serum [[ALP]], [[GGT]], [[AST]], [[ALT]] > 1.5 SD.
 	- ### Imaging Findings Characteristic of Acute Cholangitis
-		- **Biliary Dilatation**
+		- **Biliary Dilatation** > 1 cm
 		- **Evidence of Etiology:** Identify the cause of obstruction, such as bile duct stones, strictures, or tumors.
 - ## Grading
   id:: 68451e9e-46db-4e5c-a675-49485ffb5ae4
