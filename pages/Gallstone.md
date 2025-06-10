@@ -1,10 +1,10 @@
 icon:: GS
 alias:: GS, [[Cholelithiasis]], Gallstones
 parent:: [[Biliary Tract Diseases]]
+author:: [[Sira Pornsiriprasert]] 
+reviewer::
+review-date::
 
-- author:: [[Sira Pornsiriprasert]] 
-  reviewer::
-  review-date::
 - **Gallstones** are highly prevalent and the majority are asymptomatic.
 - ## Types of Gallstone
   collapsed:: true
@@ -59,4 +59,3 @@ parent:: [[Biliary Tract Diseases]]
 					- Such as [[Hereditary spherocytosis]], [[Sickle Cell Anemia]], [[Thalassemia]]
 	- [[Symptomatic Gallstone]]
 		- Elective [[Cholecystectomy]]
-		- Avoid fatty and large meal while awaiting [[Surgery]]

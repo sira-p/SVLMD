@@ -2,7 +2,5 @@ icon:: 🤝
 alias::
 parent::
 exclude-from-graph-view:: true
-
-- author::
-  reviewer::
-  review-date::
+author::
+reviewer::

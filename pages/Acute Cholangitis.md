@@ -1,9 +1,9 @@
 alias::
 parent:: [[Biliary Tract Diseases]]
+author:: [[Sira Pornsiriprasert]] 
+reviewer::
+review-date::
 
-- author:: [[Sira Pornsiriprasert]] 
-  reviewer::
-  review-date::
 - **[[Acute Cholangitis]]** is a potentially life-threatening **infection of the biliary tree**, most often resulting from **biliary obstruction** due to [[Gallstones]], benign or malignant strictures, or less commonly, other causes such as cysts, neoplasms, or [[Parasites]].
 - The obstruction leads to stasis and subsequent infection, with increased intraductal pressure potentially causing [[bacteremia]] and [[Septic Shock]].
 - ## Pathophysiology
@@ -71,4 +71,3 @@ parent:: [[Biliary Tract Diseases]]
 		- **Treating the infection** - [[ATB]] therapy (mostly [[Gram-negative Bacteria]] )
 	- ### Grade III: [[ATB]] + Urgent [[Biliary Drainage]] ± [[CBDS Removal]] if patient is stable
 	- ### Grade II: [[ATB]] + [[CBDS Removal]] or [[Biliary Drainage]] (tumor) within the same visit
-	- ### Grade I: [[ATB]] + [[CBDS Removal]] or [[Biliary Drainage]] (tumor) within the same visit

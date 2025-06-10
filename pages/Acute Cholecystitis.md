@@ -1,10 +1,10 @@
 icon:: AC
 alias:: AC
 parent:: [[Gallstone]], [[Cholecystitis]], [[Biliary Tract Diseases]]
+author:: [[Sira Pornsiriprasert]] 
+Reviewer::
+review-date::
 
-- author:: [[Sira Pornsiriprasert]] 
-  Reviewer::
-  review-date::
 - **Acute cholecystitis** (AC) is an [[Inflammation]] of the [[Gallbladder]], most commonly caused by [[Gallstones]] blocking the [[Cystic Duct]].
 - ## Pathophysiology
 	- ### [[Acute Calculous Cholecystitis]]
@@ -73,4 +73,3 @@ parent:: [[Gallstone]], [[Cholecystitis]], [[Biliary Tract Diseases]]
   id:: 68450222-53b4-4f94-999e-c2162d13b02b
 	- ### Grade III: [[ATB]] + [[Cholecystostomy]]
 	- ### Grade II: [[ATB]] + Urgent [[Cholecystectomy]]
-	- ### Grade I: [[ATB]] + Urgent [[Cholecystectomy]]
