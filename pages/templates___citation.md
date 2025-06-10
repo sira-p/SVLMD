@@ -4,7 +4,7 @@ tags:: Reference
 
 - # {title}
 	- type: {type}
-	  author: {creators}
+	  author: {author}
 	  journal: {journaltitle}
 	  date: {date}
 	  accessed: {accessdate}
