@@ -28,5 +28,5 @@ tags:: [[Anatomy]]
 	  | **[[Nasolacrimal Canal]]** | Lower anteromedial [[Orbital Wall]] | **[[Nasolacrimal Duct]]**               |
 	  | Anterior [[Ethmoidal Foramen]] | Medial [[Orbital Wall]] | Anterior [[Ethmoidal Nerve]] |
 	  | Posterior [[Ethmoidal Foramen]] | Posteromedial [[Orbital Wall]] | Posterior [[Ethmoidal Nerve]] |
-	-
+	- Reference: [(Drake, 2019)]([[References/drakeGraysAnatomyStudents2019]])
 	-
