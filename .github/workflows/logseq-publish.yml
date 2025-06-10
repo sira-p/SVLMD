@@ -46,6 +46,11 @@ jobs:
           sed -i -E "s/^- ## .*$$/- ## $new_version/" pages/Version.md
           sed -i -E "s/^  id:: .*$/  id:: $uuid/" pages/Version.md
 
+          # Update package.json version
+          if [ -f package.json ]; then
+            npm version "$new_version" --no-git-tag-version --allow-same-version
+          fi
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -112,7 +117,7 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add version.txt pages/Version.md
+          git add version.txt pages/Version.md package.json
           git commit -m "Auto update version to ${{ steps.version.outputs.version }}"
           git tag "v${{ steps.version.outputs.version }}"
           git push origin main --tags
