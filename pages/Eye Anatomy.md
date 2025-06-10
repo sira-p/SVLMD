@@ -21,6 +21,7 @@ tags:: [[Anatomy]]
 - # Structures
 	- ## [[Eyeball]]
 	- ## [[Orbit]]
+	- ## [[Extraocular Muscles]]
 - # Eye in Numbers
 	- Main reference: [(American Academy of Ophthalmology, 2016)]([[References/americanacademyofophthalmologyFundamentalsPrinciplesOphthalmology2016]])
 	- ## Structures
@@ -50,4 +51,5 @@ tags:: [[Anatomy]]
 		  | [[Lateral Rectus]]         | 40.8 long x 9.2 wide                | 
 		  | [[Superior Oblique]]     | 40 long x 10.8 wide                 |
 		  | [[Inferior Oblique]]      | 37 long x 9.6 wide                     |
+		  | [[Levator Palpebrae Superioris]] | - |
 	-

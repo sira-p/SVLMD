@@ -4,4 +4,4 @@ parent:: [[Extraocular Muscles]]
 author:: 
 reviewer::
 review-date::
-tags:: [[Anatomy]]
+tags:: [[Anatomy]], [[Skeletal Muscle]]

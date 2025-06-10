@@ -1,7 +1,7 @@
 icon:: 💪
-alias:: SO
+alias:: SR
 parent:: [[Extraocular Muscles]] 
 author:: 
 reviewer::
 review-date::
-tags:: [[Anatomy]], [[Skeletal Muscle]]
+tags:: [[Anatomy]] [[Skeletal Muscle]]
