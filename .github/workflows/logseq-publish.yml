@@ -14,6 +14,37 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Generate Version
+        id: version
+        run: |
+          if [ -f version.txt ]; then
+            current_version=$(cat version.txt)
+            base_version=$(echo $current_version | cut -d'-' -f1)
+            today=$(date +'%y-%m-%d')
+            current_date=$(echo $current_version | cut -d'-' -f2,3,4)
+            if [ "$today" = "$current_date" ]; then
+              current_num=$(echo $current_version | cut -d'-' -f5)
+              next_num=$(printf "%02d" $((10#$current_num + 1)))
+            else
+              next_num="00"
+            fi
+            new_version="$base_version-$today-$next_num"
+          else
+            new_version="0.1.0-$(date +'%y-%m-%d')-00"
+          fi
+          echo "$new_version" > version.txt
+          echo "version=$new_version" >> $GITHUB_OUTPUT
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add version.txt
+          git commit -m "Auto update version to $new_version"
+          git tag "v$new_version"
+
       - name: Cache Yarn cache
         uses: actions/cache@v4
         with:
@@ -56,3 +87,8 @@ jobs:
           folder: build
           clean: true
           single-commit: true
+
+      - name: Push Version Changes
+        run: |
+          git push origin main --tags
+          git push origin main
