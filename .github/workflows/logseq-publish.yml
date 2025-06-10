@@ -14,25 +14,84 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Cache Yarn cache
+      - name: Generate Version
+        id: version
+        run: |
+          if [ -f version.txt ]; then
+            current_version=$(cat version.txt)
+            base_version=$(echo $current_version | cut -d'-' -f1)
+            today=$(date +'%y-%m-%d')
+            # Extract the date part (fields 2-4)
+            current_date=$(echo $current_version | cut -d'-' -f2,3,4)
+            if [ "$today" = "$current_date" ]; then
+              current_num=$(echo $current_version | cut -d'-' -f5)
+              next_num=$(printf "%02d" $((10#$current_num + 1)))
+            else
+              next_num="00"
+            fi
+            new_version="$base_version-$today-$next_num"
+          else
+            new_version="0.1.0-$(date +'%y-%m-%d')-00"
+          fi
+          echo "$new_version" > version.txt
+          echo "version=$new_version" >> $GITHUB_OUTPUT
+          
+          # Update Version.md Logseq page
+          uuid=$(uuidgen)
+          if [ ! -f pages/Version.md ]; then
+            # Create initial Version.md if it doesn't exist
+            cat > pages/Version.md << EOL
+icon:: 🏷️
+exclude-from-graph-view:: true
+
+- ## $new_version
+  id:: $uuid
+- Auto-generated. Do not modify manually.
+- Format: X.Y.Z-yy-mm-dd-nn
+	- X: Major version
+		- Major restructure, new database implementation
+	- Y: Minor version
+		- Minor restructure, new topics
+	- Z: Patch version
+		- New subtopics, bug fixes, formatting
+	- yy-mm-dd: Year-month-date released
+	- nn: Version counter
+EOL
+          else
+            # Update only the version line and its UUID
+            sed -i -E "s/^- ## .*$$/- ## $new_version/" pages/Version.md
+            sed -i -E "s/^  id:: .*$/  id:: $uuid/" pages/Version.md
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'yarn'
+
+      - name: Cache Yarn dependencies
         uses: actions/cache@v4
         with:
           path: |
             ~/.yarn/cache
             .yarn/cache
+            node_modules
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-yarn-
-            
-      - name: Cache built output
+
+      - name: Cache Logseq dependencies
         uses: actions/cache@v4
         with:
-            path: build
-            key: ${{ runner.os }}-spa-build-${{ hashFiles('**/*.md') }}
-            restore-keys: |
-                ${{ runner.os }}-spa-build-
+          path: |
+            ~/.logseq
+            .logseq
+          key: ${{ runner.os }}-logseq-${{ hashFiles('**/*.md', '**/*.org') }}
+          restore-keys: |
+            ${{ runner.os }}-logseq-
 
       - name: Build graph's SPA
+        id: build
         uses: logseq/publish-spa@v0.3.0
         with:
           graph-directory: .
@@ -41,18 +100,37 @@ jobs:
           output-directory: build
 
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
+        if: steps.build.outcome == 'success'
         run: touch $GITHUB_WORKSPACE/build/.nojekyll
+
       - name: Inject Logo
+        if: steps.build.outcome == 'success'
         run: cp -f $GITHUB_WORKSPACE/assets/logo.png $GITHUB_WORKSPACE/build/static/img/logo.png
+
       - name: Inject HTMLs
+        if: steps.build.outcome == 'success'
         run: chmod +x ./.github/scripts/inject_html.sh && ./.github/scripts/inject_html.sh
+
       - name: Add social preview
+        if: steps.build.outcome == 'success'
         run: cp -f $GITHUB_WORKSPACE/assets/social-preview.png $GITHUB_WORKSPACE/build/assets/social-preview.png
 
       - name: Deploy 🚀
+        if: steps.build.outcome == 'success'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: build
           folder: build
           clean: true
           single-commit: true
+
+      - name: Commit and Tag Version
+        if: steps.build.outcome == 'success'
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add version.txt pages/Version.md
+          git commit -m "Auto update version to ${{ steps.version.outputs.version }}"
+          git tag "v${{ steps.version.outputs.version }}"
+          git push origin main --tags
+          git push origin main

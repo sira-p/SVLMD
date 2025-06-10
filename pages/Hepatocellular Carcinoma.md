@@ -32,7 +32,7 @@ tags:: [[Disease]], [[Cancer]]
 		- ## Complications
 			- **[[Hemoperitoneum]]**
 			- **Acute [[Liver Failure]]**
-			- **Peritoneal seeding**
+			- **Peritoneal [[Seeding]]**
 			- **[[Mortality]]**
 - # Diagnosis
 	- The investigation and diagnosis of [[Hepatocellular Carcinoma]] (HCC) rely on a combination of surveillance, imaging, and laboratory tests, with a focus on early detection in high-risk individuals [(Yang, 2020)]([[References/yangNewAdvancesDiagnosis2020]]).
@@ -41,8 +41,8 @@ tags:: [[Disease]], [[Cancer]]
 		- **Surveillance Tools:** Biannual liver [[Ultrasonography]] is the standard method, often combined with serum [[AFP]] testing, though AFP alone is not sufficiently sensitive or specific.
 	- ## Diagnostic Imaging
 		- **First-line:** Multiphasic [[Contrast CT]], [[Magnetic Resonance Imaging]] (MRI)
-		- **Characteristics:** arterial phase hyperenhancement, rapid washout in portal venous, or delayed phase washout.
-			- [[HCC]] can be diagnosed without biopsy unless atypical.
+		- **Characteristics:** **arterial phase hyperenhancement**, rapid washout in portal venous, or delayed phase washout.
+			- [[HCC]] can be **diagnosed without biopsy unless atypical**.
 	- ## Histopathology
 		- **[[Liver Biopsy]]:** Reserved for cases where imaging is inconclusive or atypical.
 - # Management
