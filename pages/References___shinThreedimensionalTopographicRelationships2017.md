@@ -1,7 +1,6 @@
 icon:: 📚
 exclude-from-graph-view:: true
 tags:: [[Reference]]
-excludefromgraphview:: true
 
 - # Three-dimensional and topographic relationships between the orbital margins with reference to assessment of eyeball protrusion
 	- type: article

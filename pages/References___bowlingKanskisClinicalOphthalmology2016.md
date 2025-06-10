@@ -1,7 +1,6 @@
 icon:: 📚
 exclude-from-graph-view:: true
 tags:: [[Reference]]
-excludefromgraphview:: true
 
 - # Kanski's clinical ophthalmology: A systematic approach
 	- type: book

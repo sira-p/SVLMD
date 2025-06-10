@@ -1,7 +1,6 @@
 icon:: 📚
 exclude-from-graph-view:: true
 tags:: [[Reference]]
-excludefromgraphview:: true
 
 - # Normal Values of Hertel Exophthalmometry in a Chinese Han Population from Shenyang, Northeast China
 	- type: article

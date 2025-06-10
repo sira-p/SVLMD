@@ -1,7 +1,6 @@
 icon:: 📚
 exclude-from-graph-view:: true
 tags:: [[Reference]]
-excludefromgraphview:: true
 
 - # Fundamentals and principles of ophthalmology
 	- type: book
@@ -22,4 +21,4 @@ excludefromgraphview:: true
 	  issue: 
 	  language english
 	  pages: 
-	  version: 
+	  version:
