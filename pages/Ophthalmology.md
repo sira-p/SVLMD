@@ -1,7 +1,8 @@
 icon:: 👁
 alias::
 parent::
+author::
+reviewer::
 
-- author::
-  reviewer::
-  review-date::
+- # [[Eye Anatomy]]
+- # [[Ophthalmic Diseases]]

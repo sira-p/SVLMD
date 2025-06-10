@@ -1,7 +1,5 @@
 icon:: 🦠
 alias::
 parent:: [[Microbiology]]
-
-- author::
-  reviewer::
-  review-date::
+author::
+reviewer::

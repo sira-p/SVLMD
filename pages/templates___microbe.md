@@ -1,14 +1,14 @@
 exclude-from-graph-view:: true
 
-- #### Bacteria
+- ### Bacteria
   template:: bacteria
   template-including-parent:: false
-	- alias::
+	- icon:: 🦠
+	  alias::
 	  author::
 	  reviewer::
 	  review-date::
-	- gram-stain::
+	  gram-stain::
 	  morphology::
 	  lab::
 	  oxygen-environment::
-	  tags::

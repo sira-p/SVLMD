@@ -14,8 +14,12 @@ alias:: Sira's Very Large Medical Database
 	- # [[Microbiology]]
 	- # [[Immunology]]
 	- # [[Pharmacology]]
+- # Other Concepts
+	- # [[Symptomatology]]
 - # Project Information
 	- # [[About]]
 	- # [[Contribution]]
 	- # [[Authors]]
 		- [[Sira Pornsiriprasert]]
+- # Miscellaneous
+	- # [[Random Pages]]

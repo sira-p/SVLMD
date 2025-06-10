@@ -8,32 +8,31 @@ review-date::
   lab:: [[Catalase-negative]]
   oxygen-environment:: [[Clinically Aerobic Bacteria]]
 - **Streptococcus** is a genus of [[Gram-positive cocci]].
-- ## Classification by [[Agar Hemolysis Test]]
-	- ## [[Alpha Hemolysis]]
+- # Classification by [[Agar Hemolysis Test]]
+	- # [[Alpha Hemolysis]]
 		- *[[Streptococcus pneumoniae]]*
 		- [[Viridans Streptococcus]]
 			- *[[Streptococcus mutans]]*
 			- *[[Streptococcus mitis]]*
 			- *[[Streptococcus sanguinis]]*
 			- *[[Streptococcus angionosus]]*
-	- ## [[Beta Hemolysis]]
+	- # [[Beta Hemolysis]]
 		- *[[Streptococcus pyogenes]]*
 		- *[[Streptococcus agalactiae]]*
-	- ## [[Gamma Hemolysis]]
+	- # [[Gamma Hemolysis]]
 		- *[[Streptococcus bovis]]*
 		- *[[Streptococcus gallolyticus]]*
 		- See also: [[Enterococcus]]
-- ## [[Lancefield Grouping]]
+- # [[Lancefield Grouping]]
 	- Lancefield grouping is a system that mainly classifies [[Streptococci]] based on [[Surface Antigen]].
-		- ### [[Lancefield Group A]]
+		- ## [[Lancefield Group A]]
 			- {{query (property :tags [[Lancefield Group A]])}}
 			  query-table:: false
 			  query-properties:: [:page :block]
 			  collapsed:: true
-		- ### [[Lancefield Group B]]
+		- ## [[Lancefield Group B]]
 			- {{query (property :tags [[Lancefield Group B]])}}
-		- ### [[Lancefield Group C]]
+		- ## [[Lancefield Group C]]
 			- {{query (property :tags [[Lancefield Group C]])}}
-		- ### [[Lancefield Group D]]
+		- ## [[Lancefield Group D]]
 			- {{query (property :tags [[Lancefield Group D]])}}
-			  query-properties:: [:page]
