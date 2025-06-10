@@ -23,6 +23,6 @@ script='<script>
 # Escape for sed insertion
 escaped=$(echo "$script" | sed 's/[&\\]/\\&/g; s/\//\\\//g' | sed ':a;N;$!ba;s/\n/\\n/g')
 
-# Inject before </head>
-sed -i "s#</head>#$escaped\n</head>#" "$file"
-echo "Inject HTML: Injected title replacing script."
+# Inject before </body>
+sed -i "s#</body>#$escaped\n</body>#" "$file"
+echo "Inject HTML: Injected title-replacing script."
