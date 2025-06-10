@@ -11,7 +11,11 @@ tags:: [[Anatomy]]
   Modified from Rhcastilhos. And Jmarchn. - Schematic_diagram_of_the_human_eye_with_English_annotations.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1597930
 - # Location of the Eyeball
 	- About 18 mm from the [[Optic Canal]].
-	-
+	- The [[Anteroposterior]] distance from the corneal apex to:
+		- [[Superior Orbital Margin]]: 5.8 mm
+		- [[Medial Orbital Margin]]: 5.8 mm
+		- [[Inferior Orbital Margin]]: 12.0 mm
+		- [[Lateral Orbital Margin]]: 17.9 mm
 - # Eye in Numbers
 	- Main reference: [(American Academy of Ophthalmology, 2016)]([[References/americanacademyofophthalmologyFundamentalsPrinciplesOphthalmology2016]])
 	- ## Structures
