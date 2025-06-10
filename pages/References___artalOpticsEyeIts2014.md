@@ -1,7 +1,6 @@
 icon:: 📚
 exclude-from-graph-view:: true
 tags:: [[Reference]]
-excludefromgraphview:: true
 
 - # Optics of the eye and its impact in vision: A tutorial
 	- type: article

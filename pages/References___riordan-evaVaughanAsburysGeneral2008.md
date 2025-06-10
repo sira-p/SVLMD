@@ -1,7 +1,6 @@
 icon:: 📚
 exclude-from-graph-view:: true
 tags:: [[Reference]]
-excludefromgraphview:: true
 
 - # Vaughan & Asbury's general ophthalmology
 	- type: book

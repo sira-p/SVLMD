@@ -46,7 +46,7 @@ jobs:
           fi
           # Update only the version line and its UUID
           sed -i -E "s/^- ## .*$$/- ## $new_version/" pages/Version.md
-          sed -i -E "s/^  id:: .*$/  id:: $uuid/" pages/Version.md
+          sed -i -E "s/^\t- uuid:.*$/\t- uuid: $uuid/" pages/Version.md
 
           # Update package.json version
           if [ -f package.json ]; then

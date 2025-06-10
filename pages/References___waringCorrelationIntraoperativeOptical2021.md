@@ -1,7 +1,6 @@
 icon:: 📚
 exclude-from-graph-view:: true
 tags:: [[Reference]]
-excludefromgraphview:: true
 
 - # Correlation of Intraoperative Optical Coherence Tomography of Crystalline Lens Diameter, Thickness, and Volume with Biometry and Age
 	- type: article
