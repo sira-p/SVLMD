@@ -3,7 +3,7 @@
   template-including-parent:: false
 	- icon:: 
 	  alias::
-	  parent:: [[Anatomy]] 
+	  parent:: 
 	  author:: 
 	  reviewer::
 	  review-date::

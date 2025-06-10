@@ -32,12 +32,13 @@ tags:: [[Anatomy]]
 		  | [[Aqueous Humor]]         | -                                                                                                                | 260 mm³                        |
 		  | [[Postremal Chamber]]     | 16.6 deep centrally †                                                                                            | 5–6 cm³                        |
 		  | [[Vitreous Humor]]        | -                                                                                                                | 4 cm³                          |
-	- ## Extraocular Muscles
+		- † Reference: [(Artal, 2014)]([[References/artalOpticsEyeIts2014]])
+	- ## [[Extraocular Muscles]]
 		- | **Structure**         | **Dimensions (mm)**              | 
-		  | Superior rectus      | 41.8 long x 10.6 wide               | 
-		  | Inferior rectus        | 40 long x 9.8 wide                   | 
-		  | Medial rectus         | 40.8 long x 10.3 wide              | 
-		  | Lateral rectus         | 40.8 long x 9.2 wide                | 
-		  | Superior oblique     | 40 long x 10.8 wide                 |
-		  | Inferior oblique      | 37 long x 9.6 wide                     |
+		  | [[Superior Rectus]]      | 41.8 long x 10.6 wide               | 
+		  | [[Inferior Rectus]]        | 40 long x 9.8 wide                   | 
+		  | [[Medial Rectus]]         | 40.8 long x 10.3 wide              | 
+		  | [[Lateral Rectus]]         | 40.8 long x 9.2 wide                | 
+		  | [[Superior Oblique]]     | 40 long x 10.8 wide                 |
+		  | [[Inferior Oblique]]      | 37 long x 9.6 wide                     |
 	-
