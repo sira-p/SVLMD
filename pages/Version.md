@@ -4,6 +4,7 @@ tags:: version
 
 - ## 0.1.0-25-06-10-00
   id:: f03c5ec5-994e-4367-9b56-303387c15f2c
+	- uuid:
 - Auto-generated. Do not modify manually.
 - Format: X.Y.Z-yy-mm-dd-nn
 	- X: Major version
