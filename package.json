@@ -1,0 +1,15 @@
+{
+  "name": "svlmd",
+  "version": "1.0.0",
+  "description": "Sira's Visual Learning Medical Database",
+  "private": true,
+  "repository": "git@github.com:p-sira/SVLMD.git",
+  "author": "Sira Pornsiriprasert <code@psira.me>",
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "logseq",
+    "medicine",
+    "knowledge-graph",
+    "visual-learning"
+  ]
+}

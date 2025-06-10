@@ -1,0 +1,52 @@
+name: Dry Run
+
+on:
+  pull_request:
+    branches: [main, dev]
+  workflow_dispatch:
+
+jobs:
+  dry-run:
+    runs-on: ubuntu-latest
+    name: Build Test
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Cache Logseq dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.logseq
+            .logseq
+          key: ${{ runner.os }}-logseq-${{ hashFiles('**/*.md', '**/*.org') }}
+          restore-keys: |
+            ${{ runner.os }}-logseq-
+
+      - name: Build graph's SPA (Dry Run)
+        id: build
+        uses: logseq/publish-spa@v0.3.0
+        with:
+          graph-directory: .
+          theme-mode: light
+          accent-color: green
+          output-directory: build
+
+      - name: Test asset injection
+        if: steps.build.outcome == 'success'
+        run: |
+          touch $GITHUB_WORKSPACE/build/.nojekyll
+          if [ -f "$GITHUB_WORKSPACE/assets/logo.png" ]; then
+            cp -f $GITHUB_WORKSPACE/assets/logo.png $GITHUB_WORKSPACE/build/static/img/logo.png
+          fi
+          if [ -f "$GITHUB_WORKSPACE/.github/scripts/inject_html.sh" ]; then
+            chmod +x ./.github/scripts/inject_html.sh && ./.github/scripts/inject_html.sh
+          fi
+          if [ -f "$GITHUB_WORKSPACE/assets/social-preview.png" ]; then
+            cp -f $GITHUB_WORKSPACE/assets/social-preview.png $GITHUB_WORKSPACE/build/assets/social-preview.png
+          fi 

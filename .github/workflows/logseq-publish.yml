@@ -1,3 +1,5 @@
+name: Publish
+
 on:
   push:
     branches: [main]
@@ -39,46 +41,22 @@ jobs:
           # Update Version.md Logseq page
           uuid=$(uuidgen)
           if [ ! -f pages/Version.md ]; then
-            # Create initial Version.md if it doesn't exist
-            cat > pages/Version.md << EOL
-icon:: 🏷️
-exclude-from-graph-view:: true
+            echo "Build failed: pages/Version.md not found. This file is required for versioning."
+            exit 1
+          fi
+          # Update only the version line and its UUID
+          sed -i -E "s/^- ## .*$$/- ## $new_version/" pages/Version.md
+          sed -i -E "s/^  id:: .*$/  id:: $uuid/" pages/Version.md
 
-- ## $new_version
-  id:: $uuid
-- Auto-generated. Do not modify manually.
-- Format: X.Y.Z-yy-mm-dd-nn
-	- X: Major version
-		- Major restructure, new database implementation
-	- Y: Minor version
-		- Minor restructure, new topics
-	- Z: Patch version
-		- New subtopics, bug fixes, formatting
-	- yy-mm-dd: Year-month-date released
-	- nn: Version counter
-EOL
-          else
-            # Update only the version line and its UUID
-            sed -i -E "s/^- ## .*$$/- ## $new_version/" pages/Version.md
-            sed -i -E "s/^  id:: .*$/  id:: $uuid/" pages/Version.md
+          # Update package.json version
+          if [ -f package.json ]; then
+            npm version "$new_version" --no-git-tag-version --allow-same-version
           fi
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-          cache: 'yarn'
-
-      - name: Cache Yarn dependencies
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.yarn/cache
-            .yarn/cache
-            node_modules
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn-
 
       - name: Cache Logseq dependencies
         uses: actions/cache@v4
@@ -129,7 +107,7 @@ EOL
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add version.txt pages/Version.md
+          git add version.txt pages/Version.md package.json
           git commit -m "Auto update version to ${{ steps.version.outputs.version }}"
           git tag "v${{ steps.version.outputs.version }}"
           git push origin main --tags
