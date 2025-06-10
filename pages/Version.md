@@ -6,7 +6,10 @@ exclude-from-graph-view:: true
 - Auto-generated. Do not modify manually.
 - Format: X.Y.Z-yy-mm-dd-nn
 	- X: Major version
+		- Major restructure, new database implementation
 	- Y: Minor version
+		- Minor restructure, new topics
 	- Z: Patch version
+		- New subtopics, bug fixes, formatting
 	- yy-mm-dd: Year-month-date released
 	- nn: Version counter
