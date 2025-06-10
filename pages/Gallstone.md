@@ -1,11 +1,13 @@
+icon:: GS
 alias:: GS, [[Cholelithiasis]], Gallstones
-parent:: [[Biliary Tract Diseases]] 
-author:: [[Sira Pornsiriprasert]] 
-reviewer::
-review-date::
+parent:: [[Biliary Tract Diseases]]
 
+- author:: [[Sira Pornsiriprasert]] 
+  reviewer::
+  review-date::
 - **Gallstones** are highly prevalent and the majority are asymptomatic.
 - ## Types of Gallstone
+  collapsed:: true
 	- By pathogenesis and history
 		- [[Asymptomatic Gallstone]]
 		- [[Symptomatic Gallstone]]

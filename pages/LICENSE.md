@@ -1,3 +1,4 @@
+icon:: 📜
 exclude-from-graph-view:: true
 
 - Copyright Sira Pornsiriprasert and SVLMD Contributors 2025
