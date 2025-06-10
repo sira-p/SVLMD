@@ -15,8 +15,8 @@ tags:: Reference
 	- key: {key}
 	  DOI: {DOI}
 	  ISBN: {ISBN}
-	  ISSN {ISSN}
-	  issue {issue}
+	  ISSN: {ISSN}
+	  issue: {issue}
 	  language {langid}
 	  pages: {pages}
 	  version: {version}
