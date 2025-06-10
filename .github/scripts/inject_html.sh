@@ -3,7 +3,7 @@
 file="build/index.html"
 
 title="Sira's Very Large Medical Database (SVLMD)"
-description="Sira's Very Large Medical Database (SVLMD) is a community-maintained, expert-reviewed, non-hierarchical medical education database. The information prioritizes demographics, geography, and socioeconomy in the context of Thailand."
+description="A community-maintained, expert-reviewed, non-hierarchical medical education database. It prioritizes Thai medical context."
 image="assets/social-preview.png"
 
 # Escape HTML characters
