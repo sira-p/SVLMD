@@ -32,7 +32,7 @@ tags:: [[Disease]], [[Cancer]]
 		- ## Complications
 			- **[[Hemoperitoneum]]**
 			- **Acute [[Liver Failure]]**
-			- **Peritoneal seeding**
+			- **Peritoneal [[Seeding]]**
 			- **[[Mortality]]**
 - # Diagnosis
 	- The investigation and diagnosis of [[Hepatocellular Carcinoma]] (HCC) rely on a combination of surveillance, imaging, and laboratory tests, with a focus on early detection in high-risk individuals [(Yang, 2020)]([[References/yangNewAdvancesDiagnosis2020]]).
