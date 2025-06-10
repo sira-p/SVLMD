@@ -1,31 +1,32 @@
 type:: {type}
 icon:: 📚
 exclude-from-graph-view:: true
+tag:: Reference
+accessDate:: {accessdate}
+collections:: {collections}
+author:: {creators}
+date:: {date}
+dateAdded:: {dateadded}
+dateModified:: {dateModified}
+DOI:: {DOI}
+ISBN:: {ISBN}
+ISSN:: {ISSN}
+issue:: {issue}
+itemType:: {itemType}
+journal:: {journaltitle}
+key:: {key}
+language:: {langid}
+libraryCatalog:: {librarycatalog}
+libraryLink:: {librarylink}
+pages:: {pages}
+parentItem:: {parentItem}
+publicationTitle:: {publicationtitle}
+relations:: {relations}
+shortTitle:: {shorttitle}
+itemTitle:: {title}
+url:: {url}
+version:: {version}
+volume:: {volume}
 
-- accessDate:: {accessdate}
-  collections:: {collections}
-  author:: {creators}
-  date:: {date}
-  dateAdded:: {dateadded}
-  dateModified:: {dateModified}
-  DOI:: {DOI}
-  ISBN:: {ISBN}
-  ISSN:: {ISSN}
-  issue:: {issue}
-  itemType:: {itemType}
-  journal:: {journaltitle}
-  key:: {key}
-  language:: {langid}
-  libraryCatalog:: {librarycatalog}
-  libraryLink:: {librarylink}
-  pages:: {pages}
-  parentItem:: {parentItem}
-  publicationTitle:: {publicationtitle}
-  relations:: {relations}
-  shortTitle:: {shorttitle}
-  itemTitle:: {title}
-  url:: {url}
-  version:: {version}
-  volume:: {volume}
 - Abstract
 	- {abstract}
