@@ -4,6 +4,7 @@
 	- icon::
 	  alias::
 	  parent::
-	- author::
+	  author::
 	  reviewer::
 	  review-date::
+	  tags::
