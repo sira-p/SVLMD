@@ -24,7 +24,7 @@ tags:: [[Anatomy]]
 		  | [[Lens]]      | Transverse diameter 9–10 <br />Thickness: 3 at birth to 6 at age 80, anterior capsule 0.155, posterior capsule 0.028 <br />Curvature radii: anterior 10.2, posterior -6 † | 230.4 mm³ *                    |
 		  | [[Optic Nerve]]           | Total length 40–51, intraocular 1.0 long, intraorbital 25–30 long| -                              |
 		- † Reference: [(Artal, 2014)]([[References/artalOpticsEyeIts2014]])
-		- * Reference: [@waring_correlation_2021]
+		- * Reference: [(Waring, 2021)]([[References/waringCorrelationIntraoperativeOptical2021]])
 	- ## Fluid and Spaces
 		- | **Structure**         | **Dimensions (mm)**                                                                                              | **Volume**                     |
 		  | [[Anterior Chamber]]       | 3 deep centrally                                                                                                 | 200 mm³                        |

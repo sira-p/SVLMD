@@ -5,7 +5,7 @@ excludefromgraphview:: true
 
 - # Optics of the eye and its impact in vision: A tutorial
 	- type: article
-	  author: Artal, Pablo
+	  author: 
 	  journal: Advances in Optics and Photonics
 	  date: 2014-09-30
 	  accessed: 
