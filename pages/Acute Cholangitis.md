@@ -1,3 +1,5 @@
+icon:: 🟡
+title:: Acute Cholangitis
 alias::
 parent:: [[Biliary Tract Diseases]]
 author:: [[Sira Pornsiriprasert]] 
@@ -33,11 +35,11 @@ tags:: [[Disease]]
 		- **[[Jaundice]]**: [[Total Bilirubin]] ≥ 2.
 		- Abnormal **[[Liver Function Test]]**: Elevated serum [[ALP]], [[GGT]], [[AST]], [[ALT]] > 1.5 SD.
 	- ### Imaging Findings Characteristic of Acute Cholangitis
-		- **Biliary Dilatation**
+		- **Biliary Dilatation** > 1 cm
 		- **Evidence of Etiology:** Identify the cause of obstruction, such as bile duct stones, strictures, or tumors.
 - ## Grading
   id:: 68451e9e-46db-4e5c-a675-49485ffb5ae4
-	- Grading of acute cholangitis follows the **[[Tokyo Guidelines 2018]]** [(Kiriyama, 2018)]([[References/kiriyamaTokyoGuidelines20182018]]).
+	- Grading of [[Acute Cholangitis]] follows the **[[Tokyo Guidelines 2018]]** [(Kiriyama, 2018)]([[References/kiriyamaTokyoGuidelines20182018]]).
 	- ### Grade III: Severe
 		- Any one of the following:
 			- **Cardiovascular dysfunction**: [[Hypotension]] requiring treatment with [[Dopamine]] ≥5 μg/kg per min, or any dose of [[Norepinephrine]]
@@ -72,3 +74,4 @@ tags:: [[Disease]]
 		- **Treating the infection** - [[ATB]] therapy (mostly [[Gram-negative Bacteria]] )
 	- ### Grade III: [[ATB]] + Urgent [[Biliary Drainage]] ± [[CBDS Removal]] if patient is stable
 	- ### Grade II: [[ATB]] + [[CBDS Removal]] or [[Biliary Drainage]] (tumor) within the same visit
+	- ### Grade I: [[ATB]] + [[CBDS Removal]] or [[Biliary Drainage]] (tumor) within the same visit
