@@ -7,7 +7,7 @@ reviewer::
 review-date::
 tags::
 
-- The **Child-Pugh** score is a tool used to predict [[Mortality]] in patients with **[[Cirrhosis]]**.
+- The **Child-Pugh** score is a tool used to predict [[Mortality]] in patients with **[[Cirrhosis]]** [(Kim, 2013)]([[References/kimImportantPredictorMortality2013]]).
 - Online calculator: https://www.mdcalc.com/calc/340/child-pugh-score-cirrhosis-mortality
 - # Components
 	- Serum [[Bilirubin]], [[Albumin]], [[PT]] or [[INR]], [[Ascites]], [[Hepatic Encephalopathy]]

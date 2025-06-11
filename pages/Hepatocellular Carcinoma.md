@@ -25,17 +25,7 @@ tags:: [[Disease]], [[Cancer]]
 - # Tumor Staging
 	- See the **[[Barcelona Clinic Liver Cancer]]** guideline
 - # Complications
-	- ## Ruptured [[HCC]] [(Tan, 2020)]([[References/tanSurvivalPatientsRuptured2020]])
-		- **Pathophysiology**
-			- **Tumor growth and location:** Large tumors near the surface of the liver is more susceptible.
-			- **Vasculations:** Intratumoral bleeding, vessel erosion, increased pressure within the tumor
-			- **Underlying [[Liver]] disease**: [[Cirrhosis]] and [[Coagulopathy]]
-			- **Tumor necrosis**: Weakens tumor structure, predisposing tumor rupture
-		- ## Complications
-			- **[[Hemoperitoneum]]**
-			- **Acute [[Liver Failure]]**
-			- **Peritoneal [[Seeding]]**
-			- **[[Mortality]]**
+	- ## [[Ruptured HCC]]
 - # Diagnosis
 	- The investigation and diagnosis of [[Hepatocellular Carcinoma]] (HCC) rely on a combination of surveillance, imaging, and laboratory tests, with a focus on early detection in high-risk individuals [(Yang, 2020)]([[References/yangNewAdvancesDiagnosis2020]]).
 	- ## Surveillance and Initial Assessment

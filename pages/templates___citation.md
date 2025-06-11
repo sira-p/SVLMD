@@ -13,9 +13,9 @@ tags:: Reference
 	- {abstract}
 - # Metadata
 	- key: {key}
-	  DOI: {DOI}
-	  ISBN: {ISBN}
-	  ISSN: {ISSN}
+	  DOI: {doi}
+	  ISBN: {isbn}
+	  ISSN: {issn}
 	  issue: {issue}
 	  language {langid}
 	  pages: {pages}
