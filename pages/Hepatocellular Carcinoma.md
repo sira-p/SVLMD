@@ -9,7 +9,7 @@ tags:: [[Disease]], [[Cancer]]
 - **Hepatocellular carcinoma** (HCC) is the most common primary [[Liver Cancer]] and the fifth most common [[Malignancy]] worldwide [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]]).
 - Its clinical presentation is highly variable. Patients may be asymptomatic, especially in early stages, or present with a range of symptoms related to liver dysfunction or tumor growth.
 - Early detection is increasing due to improved screening and imaging.
-- # Risk Factors in Thailand [(Chitapanarux, 2015)]([[References/chitapanaruxRiskFactorsDevelopment2015]])
+- # Risk Factors in Thailand [(Chitapanarux, 2015)]([[References/chitapanaruxRiskFactorsDevelopment2015]]) #card
 	- Chronic [[HBV]] infection
 	- [[HCV]] infection
 	- [[Liver Cirrhosis]]
@@ -46,11 +46,11 @@ tags:: [[Disease]], [[Cancer]]
 	- ## Histopathology
 		- **[[Liver Biopsy]]:** Reserved for cases where imaging is inconclusive or atypical.
 - # Management
-	- ## Curative Treatments (Early-Stage HCC) [(Brown, 2023)]([[References/brownManagementHepatocellularCarcinoma2023]])
+	- ## Curative Treatments (Early-Stage HCC) [(Brown, 2023)]([[References/brownManagementHepatocellularCarcinoma2023]]) #card
 		- **Surgical resection:** preferred for patients with good liver function and limited disease.
 		- **[[Liver Transplantation]]**
 		- **[[Ablation Therapy]]:** Alternative when surgery is not possible
-	- ## Locoregional Therapies (Intermediate-Stage HCC) [(Lencioni, 2010)]([[References/lencioniLocoregionalTreatmentHepatocellular2010]])
+	- ## Locoregional Therapies (Intermediate-Stage HCC) [(Lencioni, 2010)]([[References/lencioniLocoregionalTreatmentHepatocellular2010]]) #card
 		- **[[Transarterial Chemoembolization]] (TACE):** Delivers chemotherapy directly to the tumor via its blood supply.
 			- Standard for patients with larger or multifocal tumors not amenable to curative treatment
 		- **[[Radioembolization]]:** Uses radioactive particles to target tumors when TACE is not suitable.
