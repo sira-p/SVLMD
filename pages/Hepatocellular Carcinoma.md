@@ -31,7 +31,7 @@ tags:: [[Disease]], [[Cancer]]
 	- ## Surveillance and Initial Assessment
 		- **Target Population:** Patients with [[Cirrhosis]] or chronic hepatitis B are recommended to undergo regular surveillance due to their high risk for [[HCC]].
 		- **Surveillance Tools:** Biannual liver [[Ultrasonography]] is the standard method, often combined with serum [[AFP]] testing, though AFP alone is not sufficiently sensitive or specific.
-	- ## Diagnostic Imaging
+	- ## Diagnostic Imaging #card
 		- **First-line:** Multiphasic [[Contrast CT]], [[Magnetic Resonance Imaging]] (MRI)
 		- **Characteristics:** **arterial phase hyperenhancement**, rapid washout in portal venous, or delayed phase washout.
 			- [[HCC]] can be **diagnosed without biopsy unless atypical**.

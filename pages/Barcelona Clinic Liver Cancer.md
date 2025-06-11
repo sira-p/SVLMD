@@ -1,5 +1,4 @@
-icon:: 
-icon::
+icon:: ⚠️
 alias:: BCLC
 parent:: [[Hepatocellular Carcinoma]] 
 author:: [[Sira Pornsiriprasert]] 
