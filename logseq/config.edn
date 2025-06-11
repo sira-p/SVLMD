@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Hepatocellular Carcinoma" "Acute Cholangitis" "gallstone" "common bile duct stone"]
+ :favorites ["barcelona clinic liver cancer" "Hepatocellular Carcinoma" "Acute Cholangitis" "gallstone" "common bile duct stone"]
 
  ;; Set flashcards interval.
  ;; Expected value:

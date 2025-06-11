@@ -22,6 +22,8 @@ tags:: [[Disease]], [[Cancer]]
 	- [[RUQ]] or generalized **[[Abdominal Pain]]**
 	- **Liver dysfunctions:** [[Jaundice]], [[Ascites]], [[Hepatic Encephalopathy]], [[Variceal Bleeding]]
 	- Systemic symptoms: [[Weight Loss]], [[Lethargy]], [[Malaise]]
+- # Tumor Staging
+	- See the **[[Barcelona Clinic Liver Cancer]]** guideline
 - # Complications
 	- ## Ruptured [[HCC]] [(Tan, 2020)]([[References/tanSurvivalPatientsRuptured2020]])
 		- **Pathophysiology**
