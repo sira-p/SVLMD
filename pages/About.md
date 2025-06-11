@@ -8,5 +8,17 @@ exclude-from-graph-view:: true
 - # [[LICENSE]]
 	- **[[SVLMD]]** is licensed under **CC BY-NC 4.0** ([Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)). All contributors agree to publish under this license.
 - # [[Version]]
+  id:: 68485fc3-b6e3-402e-9fe7-58fd538c65eb
+	-
+	- Auto-generated. Do not modify manually.
+	- Format: X.Y.Z-yy-mm-dd-nn
+		- X: Major version
+			- Major restructure, new database implementation
+		- Y: Minor version
+			- Minor restructure, new topics
+		- Z: Patch version
+			- New subtopics, bug fixes, formatting
+		- yy-mm-dd: Year-month-date released
+		- nn: Version counter
 - # [[Changelog]]
 - # [[TODO]]

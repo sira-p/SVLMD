@@ -15,7 +15,7 @@
  ;; Exclude directories/files.
  ;; Example usage:
  ;; :hidden ["/archived" "/test.md" "../assets/archived"]
- :hidden []
+ :hidden ["../svlmd_utils_rust"]
 
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
@@ -54,7 +54,7 @@
 
  ;; Enable Block timestamps.
  ;; Default value: false
- :feature/enable-block-timestamps? false
+ :feature/enable-block-timestamps? true
 
  ;; Disable accent marks when searching.
  ;; After changing this setting, rebuild the search index by pressing (^C ^S).
@@ -314,7 +314,7 @@
 
  ;; Hide specific block properties.
  ;; Example usage:
- ;; :block-hidden-properties #{:public :icon}
+ :block-hidden-properties #{:public :icon :exclude-from-graph-view}
 
  ;; Create a page for all properties.
  ;; Default value: true
@@ -422,8 +422,6 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :default-home {:page "SVLMD"}
- :zotero/settings-v2 {"default" {:prefer-citekey? true, :type-id "14626940", :zotero-linked-attachment-base-directory "", :zotero-data-directory "/home/psira/Zotero/", :extra-tags ""}
- "empty" {:type-id ""}}
  :publishing/all-pages-public? true
  :ui/show-brackets? false
  :graph/forcesettings {:charge-range 1800
