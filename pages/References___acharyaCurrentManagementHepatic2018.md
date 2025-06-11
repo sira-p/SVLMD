@@ -1,7 +1,6 @@
 icon:: 📚
-exclude-from-graph-view:: true
 tags:: [[Reference]]
-excludefromgraphview:: true
+exclude-from-graph-view:: true
 
 - # Current Management of Hepatic Encephalopathy
 	- type: article
