@@ -1,3 +1,3 @@
-## [[0.1.0-25-06-10-00]]
-id:: f03c5ec5-994e-4367-9b56-303387c15f2c
-	- uuid: 37c8b507-9679-488d-963d-28ef0218e464
+icon:: 🏷️
+exclude-from-graph-view:: true
+
