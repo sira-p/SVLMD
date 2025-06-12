@@ -24,4 +24,5 @@ alias:: Sira's Very Large Medical Database
 		- [[Sira Pornsiriprasert]]
 - # Miscellaneous
 	- ## [[Random Pages]]
-	-
+	- {{embed [[Version]]}}
+-
