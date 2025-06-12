@@ -43,15 +43,16 @@ jobs:
             npm version "$new_version" --no-git-tag-version --allow-same-version
           fi
 
-      - name: Setup svlmd-rust
+      - name: Download svlmd-rust
         uses: robinraju/release-downloader@v1.8
         with:
           repository: "p-sira/svlmd-rust"
           latest: true
-          fileName: "svlmd"
-          run: |
+          fileName: "svlmd-*"
+          extract: true
+      - name: Change permission for svlmd-rust
+        run: |
             chmod +x svlmd
-      
       - name: Run svlmd sync
         run: |
           ./svlmd sync -v
