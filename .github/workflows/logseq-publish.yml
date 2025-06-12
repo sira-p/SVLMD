@@ -37,21 +37,24 @@ jobs:
           fi
           echo "$new_version" > version.txt
           echo "version=$new_version" >> $GITHUB_OUTPUT
-          
-          # Update Version.md Logseq page
-          uuid=$(uuidgen)
-          if [ ! -f pages/Version.md ]; then
-            echo "Build failed: pages/Version.md not found. This file is required for versioning."
-            exit 1
-          fi
-          # Update only the version line and its UUID
-          sed -i -E "s/^- ## .*$$/- ## $new_version/" pages/Version.md
-          sed -i -E "s/^\t- uuid:.*$/\t- uuid: $uuid/" pages/Version.md
 
           # Update package.json version
           if [ -f package.json ]; then
             npm version "$new_version" --no-git-tag-version --allow-same-version
           fi
+
+      - name: Setup svlmd-rust
+        uses: robinraju/release-downloader@v1.8
+        with:
+          repository: "p-sira/svlmd-rust"
+          latest: true
+          fileName: "svlmd"
+          run: |
+            chmod +x svlmd
+      
+      - name: Run svlmd sync
+        run: |
+          ./svlmd sync -v
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
