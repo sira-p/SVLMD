@@ -49,6 +49,10 @@ jobs:
           repository: "p-sira/svlmd-rust"
           latest: true
           fileName: "svlmd"
+      - name: debug
+        run: |
+          ls
+          tree svlmd -L 3
       - name: Change permission for svlmd-rust
         run: |
             chmod +x svlmd
