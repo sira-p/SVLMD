@@ -1,4 +1,4 @@
-- TODO Add a script before pushing/merging to remove flash card metadata
+- TODO Fix the version page
   icon:: 📝
   exclude-from-graph-view:: true
 -
