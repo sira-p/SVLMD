@@ -1,4 +1,13 @@
-## Gallstone Diseases
+icon:: 
+icon::
+alias::
+parent:: [[Gastrointestinal Diseases]] 
+author:: [[Sira Pornsiriprasert]] 
+reviewer::
+review-date::
+tags:: [[Disease]]
+
+- # Gallstone Diseases
 	- [[Gallstone]]
 	  id:: 6845baa1-9eda-4dd1-836f-4b89735ec45d
 	- [[Common Bile Duct Stone]]
