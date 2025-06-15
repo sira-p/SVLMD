@@ -7,6 +7,15 @@ review-date::
 tags::
 
 - # Choice of Fluid
+	- ## [[Crystalloid Fluid]]
+		- Saline solution
+		- Balanced crystalloids
+			- [[Ringer's Lactate]]
+			- [[Ringer's Acetate]]
+	- ## [[Colloid Fluid]]
+		- [[Gelatin]]
+		- [[Hydroxyethyl Starch]]
+		- [[Albumin]]
 - # Amount of Fluid
 	- The amount of [[IV Fluid]] consists of three components: **maintenance**, **deficits**, and **concurrent loss**.
 	- $$M + D + C$$
@@ -16,4 +25,9 @@ tags::
 	- ## Deficits
 		- Replaces fluids lost before presentation, such as from dehydration due to vomiting, diarrhea, or fasting.
 		- Calculated based on the [[Degree of Dehydration]].
-		-
+		- Administer [[Resuscitation Fluid]] if the [[Degree of Dehydration]] is severe or moderate-severe.
+			- Use [[Isotonic Fluid]] ([[NSS]], [[Acetar]], [[Ringer's Lactate]])
+			- Volume: 10-20 mL/kg/dose
+			- Rate
+				- Severe: within 15-30 mins
+				- Moderate: within 1 hr
