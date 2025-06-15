@@ -7,7 +7,7 @@ review-date::
 tags::
 
 - # Choice of Fluid
-	- ## [[Crystalloid Fluid]]
+	- ## [[Crystalloid Fluid]] #card
 		- Saline solution
 		- Balanced crystalloids
 			- [[Ringer's Lactate]]
@@ -15,14 +15,14 @@ tags::
 		- Isotonic balanced crystalloids
 			- [[Plasma-Lyte]]
 			- [[Sterofundin]]
-	- ## [[Colloid Fluid]]
+	- ## [[Colloid Fluid]] #card
 		- [[Gelatin]]
 		- [[Hydroxyethyl Starch]]
 		- [[Albumin]]
 - # Amount of Fluid
 	- The amount of [[IV Fluid]] consists of three components: **maintenance**, **deficits**, and **concurrent loss**.
 	- $$M + D + C$$
-	- ## [[Maintenance Fluid]]
+	- ## [[Maintenance Fluid]] #card
 		- Normal daily fluid and electrolyte needed to support basic physiological functions.
 		- {{embed ((684e8300-e61c-4a31-a40d-992fbd2f6658))}}
 	- ## Deficits
