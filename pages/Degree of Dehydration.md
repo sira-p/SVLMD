@@ -1,7 +1,7 @@
 icon:: 
 icon::
 alias::
-parent::
+parent:: [[Dehydration]]
 author:: [[Sira Pornsiriprasert]] 
 reviewer::
 review-date::

@@ -1,0 +1,19 @@
+icon:: 💧
+alias:: IV Fluid Management
+parent::
+author:: [[Sira Pornsiriprasert]] 
+reviewer::
+review-date::
+tags::
+
+- # Choice of Fluid
+- # Amount of Fluid
+	- The amount of [[IV Fluid]] consists of three components: **maintenance**, **deficits**, and **concurrent loss**.
+	- $$M + D + C$$
+	- ## [[Maintenance Fluid]]
+		- Normal daily fluid and electrolyte needed to support basic physiological functions.
+		- {{embed ((684e8300-e61c-4a31-a40d-992fbd2f6658))}}
+	- ## Deficits
+		- Replaces fluids lost before presentation, such as from dehydration due to vomiting, diarrhea, or fasting.
+		- Calculated based on the [[Degree of Dehydration]].
+		-

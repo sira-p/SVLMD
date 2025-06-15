@@ -27,7 +27,7 @@ tags::
 			- #### Intravascular (7.5%)
 				- [[Plasma]] (5.5%)
 				- Sub-glycocalyceal (2%)
-			- #### [[Interstitial Fluid]] (20%)
+			- #### [[Interstitial Fluid]]
 		- ### Sequestered (17.5%)
 			- [[Bone]] and [[Dense Connective Tissue]] (15%)
 			- [[Transcellular Fluid]] (2.5%)
