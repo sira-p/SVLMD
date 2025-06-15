@@ -12,6 +12,9 @@ tags::
 		- Balanced crystalloids
 			- [[Ringer's Lactate]]
 			- [[Ringer's Acetate]]
+		- Isotonic balanced crystalloids
+			- [[Plasma-Lyte]]
+			- [[Sterofundin]]
 	- ## [[Colloid Fluid]]
 		- [[Gelatin]]
 		- [[Hydroxyethyl Starch]]
@@ -31,3 +34,11 @@ tags::
 			- Rate
 				- Severe: within 15-30 mins
 				- Moderate: within 1 hr
+	- ## Concurrent Loss
+		- Ongoing abnormal fluid losses that continue during treatment, such as from burns and operative blood loss
+		- ### Insensible Loss
+			- Fluid lost through processes that are hard to measure, e.g., [[Perspiration]]
+		- ### Sensible Loss
+			- Measurable fluid loss, e.g., blood loss
+		- ### Third Space Loss
+			- Fluid shift to hard-to-measure body compartments
