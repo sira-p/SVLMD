@@ -1,1 +1,1 @@
-alias:: DM, Diabetes mellitus
+alias:: DM, Diabetes Mellitus
