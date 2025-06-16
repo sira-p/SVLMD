@@ -14,9 +14,9 @@ tags::
 	  |[[HR]]|↔|↑|↑↑↑/↓↓↓|
 	  |[[RR]]|↔|↔|↑↑ from acidosis|
 	  |Skin Tugor|↔|✓|✓|
-	  |Consciousness|↔|Anxious|Drowsy|
-	  |Dry Lip|✓|✓|✓|
-	  |Sunken Eyeballs|-|✓|✓|
+	  |[[Consciousness]]|↔|Anxious|Drowsy|
+	  |[[Dry Lip]]|✓|✓|✓|
+	  |[[Sunken Eyeballs]]|-|✓|✓|
 	  |Urine|Dark|↓|Anuria|
 	  |[[Capillary Refill]]|<2 s|2-3 s|>4 s|
 	  |[[Anterior Frontanelle]]|-|Depressed|Depressed|
