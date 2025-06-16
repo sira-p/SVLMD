@@ -12,7 +12,7 @@ tags::
   id:: 684e8300-e61c-4a31-a40d-992fbd2f6658
 	- Used in patient > 2 mo
 	- ## Formula [(Chesney, 1998)]([[References/chesneyMaintenanceNeedWater1998]])
-id:: 684e832f-2259-42ad-b3bd-1dd2d4830cd4
+	  id:: 684e832f-2259-42ad-b3bd-1dd2d4830cd4
 		- In patient > 2 mo.,
 		- **10 kg** - 100 mL/kg/d
 		- **11-20 kg** - 50 mL/kg/d
