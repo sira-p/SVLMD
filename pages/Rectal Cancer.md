@@ -25,11 +25,11 @@ tags:: [[Disease]]
 		- [[Hemorrhoid]] [(Promthet, 2012)]([[References/promthetRiskFactorsRectal2012]])
 		- **[[Obesity]]** (in men)
 - # Clinical Presentation [(Gaertner, 2015)]([[References/gaertnerRectalCancerEvidencebased2015a]])
-	- **Rectal bleeding**
-	- **Diarrhea and constipation** (commonly referred to as “change in bowel habits”)
-	- **Weight loss**
-	- **Abdominal pain**
-	- **Anemia**
+	- **[[Rectal Bleeding]]**
+	- **[[Bowel Habit Change]]**
+	- **[[Weight Loss]]**
+	- **[[Abdominal Pain]]**
+	- **[[Anemia]]**
 - # Management
 	- ## [[Colorectal Screening]]
 	- ## [[Anterior Resection]] by Tumor Location [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])
