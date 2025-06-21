@@ -39,5 +39,5 @@ tags:: [[Antimicrobial Drug]]
 		- [[Piperacillin]]
 	- ## Spectrum Summary
 		- [[N. mening]]
-		- **[[P. aeruginosa]]**
+		- Some **[[P. aeruginosa]]**
 		- [[Actinomyces]], [[Clostridium]] exc. [[C. difficile]]

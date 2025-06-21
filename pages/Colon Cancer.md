@@ -51,29 +51,14 @@ tags:: [[Disease]]
 	- ## Surgical Resection [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])
 		- General rules
 			- Resect one section above and below the cancer
+			- Resect according to the blood supply
 			- Anastomoses involving small bowel are associated with better outcomes.
-		- ### Terminologies
-			- #### [[Ileocecectomy]]
-				- Resects [[Terminal Ileum]] to [[Cecum]]
-			- #### [[Ascending Colectomy]]
-				- Resects [[Terminal Ileum]] to [[Hepatic Flexure]]
-			- #### [[Right Hemicolectomy]]
-				- Resects [[Terminal Ileum]] to distal third of the [[Transverse Colon]]
-			- #### [[Extended Right Hemicolectomy]]
-				- Resects [[Terminal Ileum]] to [[Splenic Flexure]]
-			- #### [[Transverse Colectomy]]
-				- Resects [[Hepatic Flexure]] to [[Splenic Flexure]]
-			- #### [[Left Hemicolectomy]]
-				- Resects distal third of the [[Transverse Colon]] to [[Descending Colon]]
-			- #### [[Extended Left Hemicolectomy]]
-				- Resects proximal third of the [[Transverse Colon]] to the [[Descending Colon]]
-			- #### [[Sigmoid Colectomy]]
-				- Resects distal [[Descending Colon]] to [[Sigmoid Colon]]
-			- #### [[Subtotal Colectomy]]
-				- Resects [[Terminal Ileum]] to [[Descending Colon]], sparing the [[Sigmoid Colon]]
-			- #### [[Total Colectomy]]
-				- Resects [[Terminal Ileum]] to [[Sigmoid Colon]], sparing the [[Rectum]]
-			- #### [[Total Proctocolectomy]]
-				- Resects [[Terminal Ileum]] to [[Rectum]]
+		- ### [[Colectomy]] by Tumor Location
+			- **[[Cecal Cancer]]:** [[Right Hemicolectomy]]
+			- **[[Hepatic Flexure Cancer]]**: [[Extended Right Hemicolectomy]]
+			- **[[Transverse Colon Cancer]]:** [[Transverse Colectomy]]
+			- **[[Splenic Flexure Cancer]]:** [[Extended Left Hemicolectomy]]
+			- **[[Descending Colon Cancer]]:** [[Left Hemicolectomy]]
+			- **[[Sigmoid Colon Cancer]]:** [[Sigmoid Colectomy]]
 	- ## Follow up
 		- Follow up with imaging and [[CEA]]
