@@ -30,3 +30,6 @@ tags:: [[Disease]]
 	- **Weight loss**
 	- **Abdominal pain**
 	- **Anemia**
+- # Management
+	- ## [[Colorectal Screening]]
+	- ## [[Anterior Resection]] by Tumor Location [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])

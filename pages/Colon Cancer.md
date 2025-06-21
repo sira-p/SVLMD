@@ -31,51 +31,23 @@ tags:: [[Disease]]
 	- [[GI Bleeding]] especially **[[LGIB]]**
 		- [[Rectal Bleeding]] is associated with better outcomes
 	- **[[Abdominal Pain]]**
-	- **Changes in Bowel Habits** ([[Diarrhea]] or [[Constipation]])
+	- **[[Bowel Habit Change]]**
 	- **Unexplained [[Weight Loss]]**
 	- [[Weakness]] or [[Fatigue]]
 	- ## Influence of Tumor Location [(Ulanja, 2019)]([[References/ulanjaColonCancerSidedness2019]])
-		- Right colon: [[Anemia]], vague abdominal pain, late symptoms
-		- Left colon: [[Rectal Bleeding]], changes in bowel habits
-- # Screening
-	- Recommended to **begin at 50**.
-		- New unpublished Thai guideline (as of June 2025), recommended beginning at 45 [(Fabregas, 2022)]([[References/fabregasClinicalUpdatesColon2022]]).
-		- If the patient has family history of colorectal cancer, start screening 10 years earlier in age of the youngest diagnosed family member's age.
-	- ## [[Colonoscopy]]
-		- Every 10 years
-	- ## [[Fecal Test]]
-		- ### [[Fecal Occult Blood Test]] (FOBT)
-			- Not specific: Detects **[[Heme]]**
-				- **[[False Positive]]:** กินต้มเลือดหมู, ก๋วยเตี๋ยวน้ำตก, [[Iron Supplement]]
-				- **[[False Negative]]:** [[Vitamin C]]
-			- Repeat 3 days. All results must be positive for diagnosis.
-			- Some food must be restricted.
-		- ### [[Fecal Immonochemical Test]] (FIT)
-			- **More specific:** uses [[Antibody]] to human [[Hemoglobin]]
-			- f/u with [[colonoscopy]] if positive
-		- ### [[Stool DNA Test]]
-			- Not frequently used due to detection limitations
-			- **Not specific to [[Adenomatous Polyp]]: Cannot detect pre-malignancy**
-			- More expensive than [[Fecal Immonochemical Test]]
-	- ## [[Computed Tomography Colonoscopy]]
-		- Every 5 years
-		- Replaces [[Barium Enema]]
-	- ## [[Barium Enema]]
+		- Right colon: [[Anemia]], vague [[Abdominal Pain]], late symptoms
+		- Left colon: [[Rectal Bleeding]], [[Bowel Habit Change]]
 - # Diagnosis
 	- **[[Tissue Biopsy]] via [[Colonoscopy]]**
 	- **[[CT]]** or **[[MRI]]**
 - # Management
-	- ## Surgical Resection [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])
-		- General rules
-			- Resect one section above and below the cancer
-			- Resect according to the blood supply
-			- Anastomoses involving small bowel are associated with better outcomes.
-		- ### [[Colectomy]] by Tumor Location
-			- **[[Cecal Cancer]]:** [[Right Hemicolectomy]]
-			- **[[Hepatic Flexure Cancer]]**: [[Extended Right Hemicolectomy]]
-			- **[[Transverse Colon Cancer]]:** [[Transverse Colectomy]]
-			- **[[Splenic Flexure Cancer]]:** [[Extended Left Hemicolectomy]]
-			- **[[Descending Colon Cancer]]:** [[Left Hemicolectomy]]
-			- **[[Sigmoid Colon Cancer]]:** [[Sigmoid Colectomy]]
+	- ## [[Colorectal Screening]]
+	- ## [[Colectomy]] by Tumor Location [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])
+		- **[[Cecal Cancer]]:** [[Right Hemicolectomy]]
+		- **[[Hepatic Flexure Cancer]]**: [[Extended Right Hemicolectomy]]
+		- **[[Transverse Colon Cancer]]:** [[Transverse Colectomy]]
+		- **[[Splenic Flexure Cancer]]:** [[Extended Left Hemicolectomy]]
+		- **[[Descending Colon Cancer]]:** [[Left Hemicolectomy]]
+		- **[[Sigmoid Colon Cancer]]:** [[Sigmoid Colectomy]]
 	- ## Follow up
 		- Follow up with imaging and [[CEA]]

@@ -7,6 +7,10 @@ reviewer::
 review-date::
 tags:: [[Operation]]
 
+- General rules
+	- Resect one section above and below the cancer
+	- Resect according to the blood supply
+	- Anastomoses involving small bowel are associated with better outcomes.
 - # Terminologies [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])
 	- ## [[Ileocecectomy]]
 		- Resects [[Terminal Ileum]] to [[Cecum]]
