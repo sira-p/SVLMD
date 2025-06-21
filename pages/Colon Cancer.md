@@ -38,7 +38,9 @@ tags:: [[Disease]]
 		- Right colon: [[Anemia]], vague abdominal pain, late symptoms
 		- Left colon: [[Rectal Bleeding]], changes in bowel habits
 - # Screening
-	- Recommended to **begin at 45**. [(Fabregas, 2022)]([[References/fabregasClinicalUpdatesColon2022]])
+	- Recommended to **begin at 50**.
+		- New unpublished Thai guideline (as of June 2025), recommended beginning at 45 [(Fabregas, 2022)]([[References/fabregasClinicalUpdatesColon2022]]).
+		- If the patient has family history of colorectal cancer, start screening 10 years earlier in age of the youngest diagnosed family member's age.
 	- **[[Colonoscopy]]**
 	- [[Fecal Immonochemical Test]]
 		- f/u with [[colonoscopy]] if positive
