@@ -33,3 +33,6 @@ tags:: [[Disease]]
 - # Management
 	- ## [[Colorectal Screening]]
 	- ## [[Anterior Resection]] by Tumor Location [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])
+		- **Upper or Middle [[Rectum]]:** [[Low Anterior Resection]]
+		- **Distal [[Rectum]]:** [[Extended Low Anterior Resection]]
+		- Usually lead to [[Low Anterior Resection Syndrome]]

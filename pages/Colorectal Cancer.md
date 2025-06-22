@@ -7,9 +7,9 @@ reviewer::
 review-date::
 tags:: [[Disease]]
 
+- **Colorectal cancer** is the third most common cancer worldwide. [[Rectal Cancer]] accounts for over one-third of cases [(Nguyen, 2020)]([[References/nguyenLowAnteriorResection2020]]).
 - # [[Colon Cancer]]
 - # [[Rectal Cancer]]
-	- More common
 - # [[Colorectal Screening]]
 	- Recommended to **begin at 50**.
 		- New unpublished Thai guideline (as of June 2025), recommended beginning at 45 [(Fabregas, 2022)]([[References/fabregasClinicalUpdatesColon2022]]).
