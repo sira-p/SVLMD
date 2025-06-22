@@ -49,5 +49,11 @@ tags:: [[Disease]]
 			- First line
 			- Indicated when [[IPSS]] > 7.
 		- **[[5-Alpha-Reductase Inhibitor]]:** [[Fenasteride]]
-			- Indicated when prostate mass > 30g
+			- Indicated when prostate size > 30g
 		- **[[PDE-5 Inhibitor]]:** [[Tadalafil]]
+	- ## Surgery
+		- Indications: [[Urinary Retention]] > 2 times, [[Recurrent UTI]], [[Hematuria]], [[Azotemia]], [[Bladder Stone]]
+		- [[TURP]]
+		- [[TUIP]]
+		- [[Prostectomy]]
+			- Indicated when prostate size > 60g
