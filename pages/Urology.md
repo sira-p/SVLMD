@@ -7,3 +7,5 @@
   tags::
 - # Diseases
 	- [[Benign Prostatic Hyperplasia]]
+- # Malignancies
+	- [[Prostate Cancer]]
